@@ -22,7 +22,7 @@ description: Personal page of Attila Gere PhD
 navbar-links:
   About Me: "aboutme"
   Research: "researcher"
-  Contact Me: "contact.md"
+  Contact Me: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
