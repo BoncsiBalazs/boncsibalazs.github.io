@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Contact me
 subtitle: Let's schedule a talk!
 ---
 
