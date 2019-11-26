@@ -4,7 +4,7 @@ title: About Me
 subtitle: Short bio
 ---
 
-My research activity focuses on the following areas:
+My research activities focus on the following areas:
 
 - consuemr sensory analysis
 - sensory data analysis 
