@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Special Issue "Sustainability in Sensory Analysis and New Food Product Development"
+share-img: /img/diary.png
 ---
 
-![alt text](img/Sensory_Analysis_New_Food_horizontal_light.png)
+<p align="center">
+  <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
+</p>
+
 
 Dear Colleagues,
 
