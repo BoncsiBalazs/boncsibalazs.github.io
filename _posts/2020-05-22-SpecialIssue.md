@@ -22,6 +22,6 @@ and wide dissemination of research results, developments, and applications.
 
 Sustainability is an open access MDPI journal, with an impact factor of 2.592 (Q2 on Scimago). 
 
-Further information on manuscript submissin is available **[here]**(https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food)
+Further information on manuscript submissin is available **[here](https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food)**
 
-In case you have any questions regarding the special issue, do not hesitate to contact me by [email](gereattilaphd@gmail.com)!
+In case you have any questions regarding the special issue, do not hesitate to contact me by [mailto](mailto:gereattilaphd@gmail.com)!
