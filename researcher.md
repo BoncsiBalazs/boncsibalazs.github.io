@@ -5,6 +5,9 @@ subtitle: Latest publications and projects
 ---
 
 Latest publications
+**Gere, A.**, Danner, L., Dürrschmid, K., Kókai, Z., Sipos, L., Huzsvai, L., & Kovács, S. (2020). 
+Structure of presented stimuli influences gazing behavior and choice. 
+Food Quality and Preference, 83, 103915. https://doi.org/10.1016/j.foodqual.2020.103915
 
 Benes, E., **Gere, A.**, & Fodor, M. (2020). 
 Predicting macronutrients and energy content of snack products using FT-NIR analysis and chemometric techniques. 
