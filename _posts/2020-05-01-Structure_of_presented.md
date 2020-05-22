@@ -18,4 +18,4 @@ significantly more time was needed to choose one alternative out of 7AFC and 8AF
 the investigated bottom-up factors can significantly influence gazing behavior, and therefore need to be carefully considered 
 when planning or comparing results of eye-tracking experiments.  	
 
-Are you interested? Contact me by [email] (gereattilaphd@gmail.com] or on [ResearchGate] (https://www.researchgate.net/profile/Attila_Gere)
+Are you interested? Contact me by [email](gereattilaphd@gmail.com] or on [ResearchGate](https://www.researchgate.net/profile/Attila_Gere)
