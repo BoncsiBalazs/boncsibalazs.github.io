@@ -13,6 +13,14 @@ Benes, E., **Gere, A.**, & Fodor, M. (2020).
 Predicting macronutrients and energy content of snack products using FT-NIR analysis and chemometric techniques. 
 Journal of Food Engineering, 280, 109954. https://doi.org/https://doi.org/10.1016/j.jfoodeng.2020.109954
 
+Guld, Z., Nyitrainé Sárdy, D., **Gere, A.**, & Rácz, A. (2020). 
+Comparison of sensory evaluation techniques for Hungarian wines. 
+Journal of Chemometrics, 334:e3219. https://doi.org/10.1002/cem.3219
+
+Stamenkovic, Z., Radojčin, M., Pavkov, I., Bikić, S., Ponjičan, O., Bugarin, R., Kovács, S., **Gere, A.** (2020). 
+Ranking and multicriteria decision making in optimization of raspberry convective drying processes. 
+Journal of Chemometrics, 34:e3224. https://doi.org/10.1002/cem.3224
+
 Biró, B., Fodor, R., Szedljak, I., Pásztor-Huszár, K., & **Gere, A.** (2019). 
 Buckwheat-pasta enriched with silkworm powder: Technological analysis and sensory evaluation. 
 LWT, 116, 108542. https://doi.org/10.1016/j.lwt.2019.108542
