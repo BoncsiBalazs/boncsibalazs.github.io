@@ -5,6 +5,7 @@ share-img: /img/diary.png
 ---
 
 <p align="center">
+  <href="https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food">
   <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
 </p>
 
