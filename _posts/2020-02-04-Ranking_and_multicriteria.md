@@ -19,4 +19,4 @@ phenolic, and total flavonoid preservation, compared with freeze‐dried samples
 importance in ranking as well, and total phenol reduction was defined as the most important variable. These results can help practitioners 
 to develop cheaper and simpler drying methods that would replace the freeze‐drying but keep the same quality of the dried products.  	
 
-Are you interested? Contact me by [email] (gereattilaphd@gmail.com] or on [ResearchGate] (https://www.researchgate.net/profile/Attila_Gere)
+Are you interested? Contact me by [email](gereattilaphd@gmail.com] or on [ResearchGate](https://www.researchgate.net/profile/Attila_Gere)
