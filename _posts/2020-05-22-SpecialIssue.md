@@ -1,17 +1,12 @@
 ---
 layout: post
 title: Special Issue "Sustainability in Sensory Analysis and New Food Product Development"
-share-img: /img/diary.png
+share-img: /img/spec_issue_icon.png
 ---
 
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food">
     <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
 </a>
-
-
-<p align="center">
-  <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
-</p>
 
 
 Dear Colleagues,
