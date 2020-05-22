@@ -6,6 +6,10 @@ subtitle: Latest publications and projects
 
 Latest publications
 
+Benes, E., **Gere, A.**, & Fodor, M. (2020). 
+Predicting macronutrients and energy content of snack products using FT-NIR analysis and chemometric techniques. 
+Journal of Food Engineering, 280, 109954. https://doi.org/https://doi.org/10.1016/j.jfoodeng.2020.109954
+
 Biró, B., Fodor, R., Szedljak, I., Pásztor-Huszár, K., & **Gere, A.** (2019). 
 Buckwheat-pasta enriched with silkworm powder: Technological analysis and sensory evaluation. 
 LWT, 116, 108542. https://doi.org/10.1016/j.lwt.2019.108542
