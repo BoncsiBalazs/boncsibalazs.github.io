@@ -3,6 +3,8 @@ layout: post
 title: Special Issue "Sustainability in Sensory Analysis and New Food Product Development"
 ---
 
+![alt text](img/Sensory_Analysis_New_Food_horizontal_light.png)
+
 Dear Colleagues,
 
 Over the past decades, sustainability gained more and more space in food sciences and therefore in food sensory analysis 
