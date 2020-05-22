@@ -4,7 +4,8 @@ title: Research
 subtitle: Latest publications and projects
 ---
 
-Latest publications
+**Latest publications**
+
 **Gere, A.**, Danner, L., Dürrschmid, K., Kókai, Z., Sipos, L., Huzsvai, L., & Kovács, S. (2020). 
 Structure of presented stimuli influences gazing behavior and choice. 
 Food Quality and Preference, 83, 103915. https://doi.org/10.1016/j.foodqual.2020.103915
