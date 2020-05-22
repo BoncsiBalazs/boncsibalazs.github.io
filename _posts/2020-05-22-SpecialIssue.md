@@ -4,8 +4,12 @@ title: Special Issue "Sustainability in Sensory Analysis and New Food Product De
 share-img: /img/diary.png
 ---
 
+<a href="https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food">
+    <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
+</a>
+
+
 <p align="center">
-  <href="https://www.mdpi.com/journal/sustainability/special_issues/Sensory_Analysis_New_Food">
   <img src="/img/Sensory_Analysis_New_Food_horizontal_light.png">
 </p>
 
