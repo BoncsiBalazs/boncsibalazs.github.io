@@ -6,7 +6,7 @@ subtitle: Short bio
 
 My research activities focus on the following areas:
 
-- consuemr sensory analysis
+- consumer sensory analysis
 - sensory data analysis 
 - new product development
 - eye-tracking
