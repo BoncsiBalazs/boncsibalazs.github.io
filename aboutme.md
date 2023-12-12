@@ -10,12 +10,17 @@ My research activities focus on the following areas:
 - sensory data analysis 
 - new product development
 - eye-tracking
+- virtual reality
 
 
 ### Short bio
 
-Dr. Attila Gere is s sensory scientist received his Ph.D. in Sensory Analysis form Szent István University,
-Hungary in 2016. He started his career at Corvinus University of Budapest in 2015 and has been working as 
-a lecturer at Szent István University since 2017 and as a postdoctoral research fellow at Hungarian Academy 
-of Sciences since 2018. He has been publishing research articles since 2014 and working in the Sensory 
-Laboratory of SZIU. Attila currently lives in Budapest with his family, he enjoys hiking and reading.
+Dr. Attila Gere is a food sensory scientist. His research focuses mainly on 
+consumer sensory analysis including but not limited to novel (e.g., insect-based) 
+food product and sensory/sensometric method developments. He has a strong focus on 
+novel technologies, such as eye-tracking, face reading, virtual/mixed reality, and 
+emotional responses to food products. These technologies help to solve problems 
+related to sustainability in the food sector, therefore contributing to SDG #2. 
+He is a member of a vivid international community of food scientists and is always 
+open to new challenges. Attila currently lives in Budapest with his family and 
+actively practices fatherhood.
