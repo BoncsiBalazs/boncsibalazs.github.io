@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microencapsulation and Application of Probiotic Bacteria *Lactiplantibacillus plantarum* 299v Strain
+title: Microencapsulation and Application of Probiotic Bacteria Lactiplantibacillus plantarum 299v Strain
 ---
 
 Microencapsulation is an up-and-coming technology for maintaining the viability of probiotics. 
