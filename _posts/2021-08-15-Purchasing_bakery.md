@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purchasing bakery goods during covid-19: A mind genomics cartography of hungarian consumers
+title: Purchasing bakery goods during covid-19. A mind genomics cartography of hungarian consumers
 ---
 
 At both global and national levels, COVID-19 caused huge changes both in politics and economics, 
