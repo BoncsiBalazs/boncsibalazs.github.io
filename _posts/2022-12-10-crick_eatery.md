@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Crick-Eatery: A Novel Approach to Evaluate Cricket (*Acheta domesticus*) Powder Replacement in Food Products through Product Eating Experience and Emotional Response
+title: The Crick-Eatery: A Novel Approach to Evaluate Cricket (Acheta domesticus) Powder Replacement in Food Products through Product Eating Experience and Emotional Response
 ---
 
 This study was conducted to evaluate three different food products containing cricket powder for consumer acceptability, 
