@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *HUN* MTA, KEB, Elelmiszertudomanyi Albizottsag Workshop 
+title: [HUN] MTA, KÉB, Élelmiszertudományi Albizottság Workshop 
 ---
 
 Magyar Tudományos Akadémia Kertészeti és Élelmiszertudományi Bizottságának 
