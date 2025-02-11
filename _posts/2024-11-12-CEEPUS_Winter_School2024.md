@@ -13,7 +13,7 @@ RS-1512-05-2425 - Improving Food Quality with Novel Food Processing Technologies
 and RS-1012-00-2425 - Building Knowledge and Experience Exchange in CFD.
 Looking forward to the next opportunity to meet this extraordinary community.  
 
-Program of the Winter School 2024 is available **[here](https://drive.google.com/file/d/1dgIqsERDMxEoD4X9GDni0gYnqC1SixEh/view?usp=sharing)**
+Program of the Winter School 2024 is available **[here](https://drive.google.com/file/d/1aAu8q9K9CBx3SRHcq8uvR9QoVRFI6qQA/view?usp=sharing)**
 
 
 In case you have any questions regarding the presentation, do not hesitate to contact me by [email](mailto:gereattilaphd@gmail.com)!
