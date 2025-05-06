@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About Me
-subtitle: Short bio
+title: Ez vagyok Én / This is me
+subtitle: rövid bemutatkozás
 ---
 
-My research activities focus on the following areas:
+Kezdő kutatóként az alábbi területekkel foglalkozom
 
-- consumer sensory analysis
-- sensory data analysis 
-- new product development
-- eye-tracking
-- virtual reality
+- korszerű fogyasztói érzékszervi vizsgálati módszerek
+- közétkeztetés fejleszése
+- termék-és technológia fejlesztés
+- szemmozgás-nyomonkövetés, bőrellenállás-alapú vizsgálatok
+- Megváltozott fogyasztói környezetek
 
 
 ### Short bio
 
-Dr. Attila Gere is a food sensory scientist. His research focuses mainly on 
-consumer sensory analysis including but not limited to novel (e.g., insect-based) 
-food product and sensory/sensometric method developments. He has a strong focus on 
-novel technologies, such as eye-tracking, face reading, virtual/mixed reality, and 
-emotional responses to food products. These technologies help to solve problems 
-related to sustainability in the food sector, therefore contributing to SDG #2. 
-He is a member of a vivid international community of food scientists and is always 
-open to new challenges. Attila currently lives in Budapest with his family and 
-actively practices fatherhood.
+Boncsarovszki Ferenc Balázs vagyok, jelenleg a Magyar Agrár-és Élettudományi Egyetem Élelmiszertudományi Doktori Iskolájának doktorandusz hallgatója. Kutatásaimban elsősorban élelmiszeripari érzékszervi minősítésekkel foglalkozom, doktori disszertációm a közétkeztetési készételek és készétel menüsorok érzékszervi módszereinek fejlesztésén dolgozom konzulensemmel, Dr. Gere Attilával. Doktorandusz létem mellett elkötelezett feladatomnak tekintem a jövő értelmiségi körének oktatásán túl a felsőoktatással "szemező" diákok (fiatalok és idősek egyaránt) a problémáik áttekintését, megértését és részbeni megoldását. A kutatási területem átadásán felül küldetésként tekintek a felzárkóztatásra, a mentális és fizikális "jóllét" fontosságának átadására és ezek elérési lehetőségeinek feltárása: aktív tevékenységet folytatok különböző tudománykommunikációs területeken nem csupán az egyetemi, hanem az országos érintettségű területeken (mint például a Tudományos Nagykövet Program).
+
+"Külső szakértők elmondása alapján" igazi csapatjátékos vagyok, aki nem a problémákat és a kifogásokat keresi, hanem a megoldási és fejlődési lehetőségek teljeskörű kiaknázásán dolgozom. Utóbbiak terén folyamatosan feszegetem a határaim és kilépve a komfortzónámból igyekszem minél több dolgot elsajátítani.
+
+Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidejét ma már amatőr szintű sportolással, barátaival és családjával töltöm. 
+Mottómként a következő jelmondatot tudom megfogalmazni  „légy olyan Ember, amelyet magad mellé is kívánsz”.
