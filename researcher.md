@@ -4,7 +4,7 @@ title: Publikációk, elért eredmények
 subtitle: Az alábbiakban a fontosabb publikációs, prezentációs és egyéb megemlítendő tevékenységemet láthatod.
 ---
 
-**Latest publications**
+Hajrá!
 
 **Gere, A.**, Biró, B., Radványi, D., Zemel, R., Papajorgji, P., & Moskowitz, H. (2023). 
 Sensory Analysis and Consumer Mind-Sets and Emotions for Dairy Products. 
