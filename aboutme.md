@@ -7,7 +7,7 @@ subtitle: rövid bemutatkozás
 Kezdő kutatóként az alábbi területekkel foglalkozom
 
 - korszerű fogyasztói érzékszervi vizsgálati módszerek
-- közétkeztetés fejleszése
+- közétkeztetés fejlesztése
 - termék-és technológia fejlesztés
 - szemmozgás-nyomonkövetés, bőrellenállás-alapú vizsgálatok
 - Megváltozott fogyasztói környezetek
