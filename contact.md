@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elérhetőségek
-subtitle: Where to find me?
+subtitle: Kérdésed van? Ezeken a felületeken megtalálsz! 
 ---
 
 - [email](mailto:balazs.boncsarovszkid@gmail.com)
