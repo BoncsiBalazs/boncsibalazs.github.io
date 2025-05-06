@@ -19,5 +19,6 @@ Boncsarovszki Ferenc Balázs vagyok, jelenleg a Magyar Agrár-és Élettudomány
 
 "Külső szakértők elmondása alapján" igazi csapatjátékos vagyok, aki nem a problémákat és a kifogásokat keresi, hanem a megoldási és fejlődési lehetőségek teljeskörű kiaknázásán dolgozom. Utóbbiak terén folyamatosan feszegetem a határaim és kilépve a komfortzónámból igyekszem minél több dolgot elsajátítani.
 
-Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidőm ma már amatőr szintű sportolással, barátaimmal és családommal töltöm. //
+Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidőm ma már amatőr szintű sportolással, barátaimmal és családommal töltöm.  
+
 Mottómként a következő jelmondatot tudom megfogalmazni  „légy olyan Ember, amelyet magad mellé is kívánsz”.
