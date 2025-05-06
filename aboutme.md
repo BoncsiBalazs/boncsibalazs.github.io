@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ez vagyok Én / This is me
+title: Ez vagyok Én   This is me
 subtitle: rövid bemutatkozás
 ---
 
-Kezdő kutatóként az alábbi területekkel foglalkozom
+Kezdő kutatóként az alábbi területekkel foglalkozom:
 
 - korszerű fogyasztói érzékszervi vizsgálati módszerek
 - közétkeztetés fejlesztése
@@ -19,5 +19,5 @@ Boncsarovszki Ferenc Balázs vagyok, jelenleg a Magyar Agrár-és Élettudomány
 
 "Külső szakértők elmondása alapján" igazi csapatjátékos vagyok, aki nem a problémákat és a kifogásokat keresi, hanem a megoldási és fejlődési lehetőségek teljeskörű kiaknázásán dolgozom. Utóbbiak terén folyamatosan feszegetem a határaim és kilépve a komfortzónámból igyekszem minél több dolgot elsajátítani.
 
-Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidejét ma már amatőr szintű sportolással, barátaival és családjával töltöm. 
+Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidőm ma már amatőr szintű sportolással, barátaimmal és családommal töltöm. //
 Mottómként a következő jelmondatot tudom megfogalmazni  „légy olyan Ember, amelyet magad mellé is kívánsz”.
