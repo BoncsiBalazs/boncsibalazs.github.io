@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-subtitle: Latest publications and projects
+title: Publikációk, elért eredmények
+subtitle: Az alábbiakban a fontosabb publikációs, prezentációs és egyéb megemlítendő tevékenységemet láthatod.
 ---
 
 **Latest publications**
