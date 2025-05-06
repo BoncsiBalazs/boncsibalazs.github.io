@@ -20,10 +20,10 @@ description: Boncsarovszki Balázs gyakorló PhD hallgató bemutatkozó oldala
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://boncsibalazs.github.io/"
-  About Me: "aboutme"
-  Research: "researcher"
-  Contact Me: "contact"
+  Aktuális hírek: "https://boncsibalazs.github.io/"
+  Rólam: "aboutme"
+  Kutatói tevékenységem: "researcher"
+  Elérhetőségeim: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
