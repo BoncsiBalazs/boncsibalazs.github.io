@@ -4,7 +4,7 @@ title: Elérhetőségek
 subtitle: Kérdésed van? Ezeken a felületeken megtalálsz! 
 ---
 
-- [email](mailto:balazs.boncsarovszkid@gmail.com)
+- [Email](mailto:balazs.boncsarovszkid@gmail.com)
 - [Researchgate](https://www.researchgate.net/profile/Balazs-Boncsarovszki-2?ev=hdr_xprf)
 - [LinkedIn](https://www.linkedin.com/in/bal%C3%A1zs-boncsarovszki-138a602ab/)
 - [MTMT](https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=10032036) (Hungarian)
