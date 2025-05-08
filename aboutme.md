@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ez vagyok Én                           This is me
+title: Ez vagyok Én                        
 subtitle: rövid bemutatkozás
 ---
 
