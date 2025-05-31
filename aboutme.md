@@ -37,4 +37,5 @@ doktori disszertációm a közétkeztetési készételek és készétel menüsor
 Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidőm ma már amatőr szintű sportolással, barátaimmal és családommal töltöm.  
 
 Mottómként a következő jelmondatot tudom megfogalmazni :
-**„Légy olyan Ember, amelyet magad mellé is kívánsz”.**
+<p> **„Légy olyan Ember, amelyet magad mellé is kívánsz”.** </p>
+
