@@ -27,7 +27,10 @@ subtitle: rövid bemutatkozás
 
 ### Short bio
 
-Boncsarovszki Ferenc Balázs vagyok, jelenleg a Magyar Agrár-és Élettudományi Egyetem Élelmiszertudományi Doktori Iskolájának doktorandusz hallgatója. Kutatásaimban elsősorban élelmiszeripari érzékszervi minősítésekkel foglalkozom, doktori disszertációm a közétkeztetési készételek és készétel menüsorok érzékszervi módszereinek fejlesztésén dolgozom konzulensemmel, Dr. Gere Attilával. Doktorandusz létem mellett elkötelezett feladatomnak tekintem a jövő értelmiségi körének oktatásán túl a felsőoktatással "szemező" diákok (fiatalok és idősek egyaránt) a problémáik áttekintését, megértését és részbeni megoldását. A kutatási területem átadásán felül küldetésként tekintek a felzárkóztatásra, a mentális és fizikális "jóllét" fontosságának átadására és ezek elérési lehetőségeinek feltárása: aktív tevékenységet folytatok különböző tudománykommunikációs területeken nem csupán az egyetemi, hanem az országos érintettségű területeken (mint például a Tudományos Nagykövet Program).
+Boncsarovszki Ferenc Balázs vagyok, jelenleg a Magyar Agrár-és Élettudományi Egyetem Élelmiszertudományi Doktori Iskolájának doktorandusz hallgatója. Kutatásaimban elsősorban élelmiszeripari érzékszervi minősítésekkel foglalkozom, <p style="float: left; margin-right: 15px; width: 180px;">
+  <img src="/img/félprofil.png" alt="Profilkép" 
+       style="width: 100%; height: auto; border-radius: 50%;">
+</p>doktori disszertációm a közétkeztetési készételek és készétel menüsorok érzékszervi módszereinek fejlesztésén dolgozom konzulensemmel, Dr. Gere Attilával. Doktorandusz létem mellett elkötelezett feladatomnak tekintem a jövő értelmiségi körének oktatásán túl a felsőoktatással "szemező" diákok (fiatalok és idősek egyaránt) a problémáik áttekintését, megértését és részbeni megoldását. A kutatási területem átadásán felül küldetésként tekintek a felzárkóztatásra, a mentális és fizikális "jóllét" fontosságának átadására és ezek elérési lehetőségeinek feltárása: aktív tevékenységet folytatok különböző tudománykommunikációs területeken nem csupán az egyetemi, hanem az országos érintettségű területeken (mint például a Tudományos Nagykövet Program).
 
 
 
