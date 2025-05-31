@@ -16,6 +16,16 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
+
+body {
+  background-image: url('/img/sign.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; /* vagy scroll, ahogy szeretnéd */
+  background-size: contain; /* vagy cover, ha az egész hátteret kitöltse */
+  background-color: #fff; /* vagy amilyen alap színt szeretnél mögé */
+}
+
 }
 p {
   line-height: 1.5;
