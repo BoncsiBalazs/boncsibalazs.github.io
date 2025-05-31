@@ -31,7 +31,7 @@ doktori disszertációm a közétkeztetési készételek és készétel menüsor
        style="width: 100%; height: auto; border-radius: 50%;">
 </p>
 
-"Külső szakértők elmondása alapján" igazi csapatjátékos vagyok, aki nem a problémákat és a kifogásokat keresi, hanem a megoldási és fejlődési lehetőségek teljeskörű kiaknázásán dolgozom. Utóbbiak terén folyamatosan feszegetem a határaim és kilépve a komfortzónámból igyekszem minél több dolgot elsajátítani. 
+"Külső szakértők elmondása alapján" igazi csapatjátékos vagyok, aki nem a problémákat és a kifogásokat keresi, hanem a megoldási és fejlődési lehetőségek teljeskörű kiaknázásán dolgozom. Utóbbiak terén folyamatosan feszegetem a határaim és kilépve a komfortzónámból igyekszem minél több dolgot elsajátítani és megpróbálni segíteni a környezetemen vagy akár társadalmunkon.
 
 
 Közel 9 évig voltam az Ócsa Városi Polgárőr Egyesület tagja; szabadidőm ma már amatőr szintű sportolással, barátaimmal és családommal töltöm.  
