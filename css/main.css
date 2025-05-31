@@ -18,13 +18,13 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-size: contain;
+   background-size: 150px 150px;
   {% else %}
   background-image: url('/img/sign.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-size: contain;
+ background-size: 150px 150px;
   background-color: #fff;
   {% endif %}
 }
