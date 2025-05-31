@@ -19,7 +19,7 @@ subtitle: rövid bemutatkozás
 
 ### Short bio
 
-<p style="float: left; margin-right: 14px; width: 90px;">
+<p style="float: left; margin-right: 14px; width: 150px;">
   <img src="/img/félprofil.png" alt="Profilkép" 
        style="width: 100%; height: auto; border-radius: 50%;">
 </p>
