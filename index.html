@@ -5,6 +5,12 @@ subtitle: Doktorandusz, Tudományos Nagykövet, lelkes érdeklődő
 use-site-title: true
 ---
 
+{% raw %}
+{% if post.thumbnail %}
+  <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }} thumbnail" class="post-thumbnail">
+{% endif %}
+{% endraw %}
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
