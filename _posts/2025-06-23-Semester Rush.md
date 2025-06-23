@@ -20,33 +20,34 @@ A hét második fele pedig a XXVII. Tavaszi Szél Konferenciára való felkész�
 Ugyanitt segítettem egy másik előadás elkészítését is, ahol az ízérzékelés digitális környezetben történő megváltozásának kérdéséről esett szó.
 
 <p align="center">
-  <img src="/img/20250623konfi1.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623konfi1.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 <p align="center">
-  <img src="/img/20250623konfi2.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623konfi2.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 <p align="center">
-  <img src="/img/20250623konfi3.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623konfi3.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 De ez a konferencia sokkal többről szól, mint tudományos eredmények ismertetése, hiszen a multidiszciplinaritáson (több tudományágat felölelés) mellett sok nemzetközi doktorandusz és végzett PhD hallgatóval találkozhattam és beszélgettünk a tudományos aktualitásokról.
 
 <p align="center">
-  <img src="/img/20250623konfi4.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623konfi4.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 Én sajnos nem értem el jutalmazott helyezést, de úgy gondolom, hogy mégis sokat nyertem: tapasztalatot, gondolkodáshoz inspirációt és egy kis boost-ot ahhoz, hogy tovább javuljak.. hiszen mindig van hová.
 
-A fáradalmas napok kikapcsolódásaként a konferenciát követően a Múzeumok Éjszakáján vettem részt szintén a Tudományos Nagykövetekkel, ahol a Sziklakórház, valamint a Természettudományi Múzeum időszakos kiállításait tekinthettük meg a csapatépítésen felül. 
+A fáradalmas napok kikapcsolódásaként a konferenciát követően a [Múzeumok Éjszakáján](https://muzej.hu/hirek) vettem részt szintén a Tudományos Nagykövetekkel, ahol a Sziklakórház, valamint a Természettudományi Múzeum időszakos kiállításait tekinthettük meg a csapatépítésen felül. 
+Remélem többetekkel jövőre is találkozhatok valamely helyszínen! ;)
 
 <p align="center">
-  <img src="/img/20250623MUZEJ.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623MUZEJ.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 <p align="center">
-  <img src="/img/20250623Muzej2.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623Muzej2.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 Összességében egy tartalmas hét volt, amely a további fejlődésemet segítette. 
