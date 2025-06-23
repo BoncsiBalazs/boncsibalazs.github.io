@@ -50,7 +50,7 @@ Remélem többetekkel jövőre is találkozhatok valamely helyszínen! ;)
   <img src="/img/20250623Muzej2.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
-Összességében egy tartalmas hét volt, amely a további fejlődésemet segítette. 
+Összességében egy tartalmas hét volt, amely a további fejlődésemet segítettem.. hiszen örökké van mit tanulni. ;)
 
 **Kérdésed van? Érdekel esetleg egy téma, amiről szívesen olvasnál - hallanál, vagy csak a véleményemre lennél kiváncsi? [Ezen az oldalon felteheted őket!](https://www.facebook.com/profile.php?id=61575576670042)**
 
