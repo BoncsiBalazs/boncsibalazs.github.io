@@ -10,13 +10,13 @@ A cím kicsit sejtető, de valóban a tanulásnak dedikálható az elmúlt hét?
 Részben igen.
 
 Általában a napjaimat úgy szoktam zárni, hogy lefekvés előtt adok 10-15 percet, hogy elemezzem, mi történt aznap velem. Mit csináltam jól, mit reagáltam rosszul és ezen hogyan dolgozhatnék.
-Nem ritkán ezeket papírra vagy mágmnestáblára szoktam vetni, így vizuálisan is segítem a rendszerezést és a tanulást.. valamint az előttem álló feladatok előhanhgolódására is egész jó!
+Nem ritkán ezeket a gondolatokat papírra vagy mágnestáblára szoktam vetni, így vizuálisan is segítem a rendszerezést és a tanulást.. valamint az előttem álló feladatokra való előhangolódásként is egész jó tevékenység ez :) .
 
-Több intézményben lassan elérkezik a nyári szünidő, ilyenkor a munka is sokkal serényebben zajlik, hogy hátrahagyjuk a nyár előtti nehéz feladatok terhét. Ezzel teltek az elmúlt napok, hiszen még sok dolgot tervezek csinálni, mielőtt az Intézmény a nyári szünidőre megy.
-Ezek többségében cikkírásos, konzultációs és tervezéses feladatok, de itt is a tanulás jelentős szerepet kapott.
-Csakúgy mint a legutóbbi Team Coaching eseményünk, amely során [Verával](https://www.linkedin.com/in/vera-czifra?originalSubdomain=hu) valamint a Tudományos Nagykövetekkel (akikről hamarosan készül egy nagyobb hangvételű anyag ;) )  azon dolgoztunk, hogy miképpen lehet még a célközönségünket jobban megérteni és megfogni.
+Több intézményben lassan elérkezik a nyári szünidő, ilyenkor a munka is sokkal serényebben zajlik, hogy hátrahagyjuk a nyár előtti nehéz feladatok terhét. Ezzel teltek az elmúlt napok, hiszen még sok dolgot tervezek csinálni, mielőtt az Intézmény a nyári pihenésre megy.
+Ezek többségében cikkírásos, konzultációs és tervezéses feladatok voltak, de itt is a tanulás jelentős szerepet kapott.
+Csakúgy mint a legutóbbi Team Coaching eseményünkön, amely során [Verával](https://www.linkedin.com/in/vera-czifra?originalSubdomain=hu) valamint a Tudományos Nagykövetekkel (akikről hamarosan készül egy nagyobb hangvételű anyag ;) )  azon dolgoztunk, hogy miképpen lehet még a célközönségünket jobban megérteni és megfogni.
 
-A hét második fele pedig a XXVII. Tavaszi Szél Konferenciára való felkészülésként zajlott, ahol bemutathattam egy kísérletünk előzetes eredményeit, ahol Mesterséges Intelligencia érzékszervi tudományokban való alkalmazhatóságát prezentáltam (FUN FACT: az alszekció tagja a volt középiskolai osztályfőnököm is tagja volt, aki 3. helyezést ért el). 
+A hét második fele pedig a XXVII. Tavaszi Szél Konferenciára való felkészülés jegyében zajlott, ahol bemutathattam egy kísérletünk előzetes eredményeit: Mesterséges Intelligencia érzékszervi tudományokban való alkalmazhatóságát prezentáltam (*FUN FACT: az alszekció tagja a volt középiskolai osztályfőnököm is tagja volt, aki 3. helyezést ért el*). 
 Ugyanitt segítettem egy másik előadás elkészítését is, ahol az ízérzékelés digitális környezetben történő megváltozásának kérdéséről esett szó.
 
 <p align="center">
