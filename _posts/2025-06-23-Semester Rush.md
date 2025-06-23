@@ -34,7 +34,7 @@ Ugyanitt segítettem egy másik előadás elkészítését is, ahol az ízérzé
 De ez a konferencia sokkal többről szól, mint tudományos eredmények ismertetése, hiszen a multidiszciplinaritáson (több tudományágat felölelés) mellett sok nemzetközi doktorandusz és végzett PhD hallgatóval találkozhattam és beszélgettünk a tudományos aktualitásokról.
 
 <p align="center">
-  <img src="/img/20250623konfi3.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623konfi4.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 Én sajnos nem értem el jutalmazott helyezést, de úgy gondolom, hogy mégis sokat nyertem: tapasztalatot, gondolkodáshoz inspirációt és egy kis boost-ot ahhoz, hogy tovább javuljak.. hiszen mindig van hová.
