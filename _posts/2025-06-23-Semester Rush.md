@@ -3,7 +3,7 @@ layout: default
 title: A Tapasztalatok és Tanulás Hete! 2025.06.16.-22.
 date: 2025-06-23 
 categories: blog
-thumbnail: /img/biosys.jpg
+thumbnail: /img/20250623bitkép.jpg
 ---
 
 A cím kicsit sejtető, de valóban a tanulásnak dedikálható az elmúlt hét?
@@ -19,106 +19,40 @@ Csakúgy mint a legutóbbi Team Coaching eseményünk, amely során [Verával](h
 A hét második fele pedig a XXVII. Tavaszi Szél Konferenciára való felkészülésként zajlott, ahol bemutathattam egy kísérletünk előzetes eredményeit, ahol Mesterséges Intelligencia érzékszervi tudományokban való alkalmazhatóságát prezentáltam (FUN FACT: az alszekció tagja a volt középiskolai osztályfőnököm is tagja volt, aki 3. helyezést ért el). 
 Ugyanitt segítettem egy másik előadás elkészítését is, ahol az ízérzékelés digitális környezetben történő megváltozásának kérdéséről esett szó.
 
+<p align="center">
+  <img src="/img/20250623konfi1.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20250623konfi2.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20250623konfi3.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
 De ez a konferencia sokkal többről szól, mint tudományos eredmények ismertetése, hiszen a multidiszciplinaritáson (több tudományágat felölelés) mellett sok nemzetközi doktorandusz és végzett PhD hallgatóval találkozhattam és beszélgettünk a tudományos aktualitásokról.
 
-Én sajnos nem értem el jutalmazott helyezést, de úgy gondolom, hogy mégis én nyertem a legtöbbet: tapasztalatot, gondolkodáshoz inspirációt és egy kis boost-ot ahhoz, hogy tovább javuljak.. hiszen mindig van hová.
+<p align="center">
+  <img src="/img/20250623konfi3.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+Én sajnos nem értem el jutalmazott helyezést, de úgy gondolom, hogy mégis sokat nyertem: tapasztalatot, gondolkodáshoz inspirációt és egy kis boost-ot ahhoz, hogy tovább javuljak.. hiszen mindig van hová.
 
 A fáradalmas napok kikapcsolódásaként a konferenciát követően a Múzeumok Éjszakáján vettem részt szintén a Tudományos Nagykövetekkel, ahol a Sziklakórház, valamint a Természettudományi Múzeum időszakos kiállításait tekinthettük meg a csapatépítésen felül. 
 
-
-
-
-Ismerjük ezt a szólás-mondást, hiszen általában akkor találkozunk ezzel a reakcióval, amikor egymást érik a teendők és feladatok, amely miatt folyton **arconpörgés** van.
-Különösen igaz ez azon időszak alatt, amikor egy nagyobb leállást követően összpontosulnak a határidőre elkészülendő anyagokkal. 
-Röviden: *Káosz.*
-
-De jellemzően ugyanezen emberek szokták azt is mondani, hogy: *"Ugyan már, Balázs, a zseni átlát a káoszon.."* ..ilyenkor szoktam egy könnycseppet magamban elmorzsolni, hogy nem elég, hogy össze-vissza vannak a gondolatok, de még burkoltan le is hülyéztek. Zseniális.
-
-Nézzük, mi az apropója ennek a bevezetésnek! **Miért?**
-
-Hát azért, mert a mögöttem hagyott hét eléggé eseménydúsra sikeredett.. nem volt egyszerű, néhol kevés alvással is járt, de a vége jól sikerült.
-
 <p align="center">
-  <img src="/img/napindito.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-A *hétfő* reggel egy hajnyírással kezdődött, ahol [Kati](https://www.facebook.com/profile.php?id=100057760895490) igyekezett emberi frizurát kreálni a fejem tetejére.. Mindig meglepődöm, hogy milyen ügyesen, gyorsan és jól bánik az ollóval, közben pedig megbeszéljük a világ aktuális problémáit.. már amit közel 10 percben meglehet beszélni.
-Aztán rohantam is az egyetemre egy konzultációra, hiszen a hét közepén egy egyetemi projekthez készítettünk egy többnapos kutatási tervet, valamint az ehhez tartozó mintabeszerző körütat is sikerült végrehajtani.
-Délután a felgyülemlő email-ekre reagáltam, illetve szerveztük a hét végén esedékes eseményeket.
-
-A *kedd* reggelt egy előadás-összeállítással kezdtem, majd következtett az a bizonyos egyetemi projekt elsőkörös méréssorozata: ilyenkor nagyon hálás vagyok, hogy a tudománterületem ehető élelmiszerekkel fogalkozik, így minősítés kapcsán akár jól is lakhatok a mintákkal. :)
-Délután pedig a [Tudományos Nagykövetekkel](https://www.facebook.com/search/top/?q=Tudom%C3%A1ny%20%C3%89ve) (akikről hamarosan egyenként is egy beszélgetést is olvashattok) egy Team Coaching-on vettünk részt, ahol [Czifra Verával](https://www.linkedin.com/in/vera-czifra/?originalSubdomain=hu) azon dolgoztunk, hogy miképpen tudjuk leginkább önmagunkat adni a tudománykommunikációs területen, valamint miként tudjuk egymást **csapatként** erősíteni hatékonyan. A napot egy szobában végrehajtott edzéssel zártam (amiről nem készült fotó, de lehet, hogy ez nem is baj.. :D ).
-
-<p align="center">
-  <img src="/img/TNcsapatfoto.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-A *szerda* reggel egy másik csapatértekezlettel kezdődött, hiszen egy nemzetközi hallgatókból álló csapat tagjaként egy olyan kihívásban veszünk részt, amelynek célja egy fenntartható, minimal-process (azaz alacsony feldolgozást igénylő) ital készítése, amely nem csupán finom és tápláló, hanem megfizethető is. Egész jól állunk, de erről is majd egy másik posztban beszélek ;) [A kompetícióról itt olvashatsz](https://learning.eitfood.eu/courses/food-solutions?_gl=1*21lvab*_gcl_au*MTM2NTAyMTA3Ni4xNzQxOTM4NTY4*_ga*NzgyMDYwMTAuMTc0MTkzODU2Ng..*_ga_8KJTBRYGN9*czE3NDk0NzQwNDIkbzIxJGcwJHQxNzQ5NDc0MDQyJGo2MCRsMCRoMA..*_ga_KYW74N2S9D*czE3NDk0NzQwNDIkbzIxJGcwJHQxNzQ5NDc0MDQyJGo2MCRsMCRoMA..).
-
-Az értekezlet után folytattuk a hét elején megszervezett bírálat folytatását, majd délután a különböző kutatások eredményeit beszéltük meg a Digitális Érzékszervi Csapattal.
-
-Elérkezett a *csütörtök*, amely kifejezetten pörgősre sikerült. A reggeli kávé beindítását követően egy gyors szakmai konzultációra került a sor, majd délelőtt a TuddJobban! Podcast felvételére siettem (közben pedig meghallgathattam [Nagy Felícián, űrmérnök](https://www.facebook.com/space.felician) izgalmas beszámolóját a hamarosan felszállni készülő [Kapu Tibor expedíciójával kapcsolatosan](https://mediaklikk.hu/csaladbarat-extravideok/video/2025/06/06/2025-2026-a-magyar-tudomany-eve/?fbclid=IwY2xjawKztD5leHRuA2FlbQIxMQBicmlkETBxNWF0cG1EeTlXbU5jcXpPAR6ygWBum8iUAacRqDCUFK6ClQeq3YomVZy9mUndR5cFxIjxD-Q82ao9bUP-OQ_aem_-XouGue37fE0fsEc9bGLhA).
-
-<p align="center">
-  <img src="/img/tudjobban1.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-A felvételt követően (amely hamarosan megjelenik, így erről is kaptok majd beszámolót, hiszen ez volt az első olyan esemény, ahol ilyen összefüggően beszélhettem a nagamról, a tudományomról és az ezek között lévő értékekről..) rohantam vissza az Egyetemre, ahol egy villámebéd és kávé elfogyasztását követően ismét útnak indultam, ugyanis készültünk a [BioSYS konferenciára](https://www.biosysfoodeng.hu/#invite).. na ekkor tudatosult bennem, hogy holnap tartom életem első nyilvános előadását közel 100 ember előtt (közöttük a volt és jelenlegi professzoraimmal), mindezt angolul. Úgy hiszem, még időben kapott el a kellő pánik. 
-<p align="center">
-  <img src="/img/konferencia.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-De ezen nem volt sok idő bíbelődni, hiszen délután 4 órától a konferenciára érkező külföldi delegációt kellett fogadnom az Egyetemen, sőt, körbevezetni az Intézet laboratóriumain.. Nagyon jó kihívás volt ez is és szerencsémre mindenki élvezte a betekintést. 
-
-<p align="center">
-  <img src="/img/labortura.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-A napot egy megtisztelő gálavacsorával zártuk, ahol az érdekes tudománymetriai beszámolót követően egy koccintással egybekötött étkezésre és szakmai eszmecserére került sor. Még az ágyban átpörgettem a készített diasort és fejben a mondanivalót és kijavítottam a zavaros pacákat.
-
-<p align="center">
-  <img src="/img/galavacsora.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623MUZEJ.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/galavacsora2.jpg" alt="SET1" style="max-width:50%;">
+  <img src="/img/20250623Muzej2.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
-
-Végül eljött a ***péntek***, azaz az előadás napja. Természetesen aludni nem sikerült sokat, de ez már nem idegesség volt, hanem inkább kiváncsiság és bizonyítási vágy. Tudtam, hogy nem éghetek be, hiszen így nem csak az oktatóim szemében esik nagy mértékben a reputációm, hanem magammal és a lelkiismeretemmel sem tudtam volna elszámolni.
-
-Aztán ahogy a nap folyamán érkezett az Én időm a kiváncsiság egyre inkább ment át felpörgésbe, aztán elérkezett a showtime előtti 10 perc.
-
-Na ebben a 10 percben történik valami megmagyarázhatatlan dolog bennem. Ilyenkor a környezet lecsöndesedik és elindul valami belül (ami nem a beszéd szövege). 
-A fókusz ilyenkor a lelki béke megtalálásán van és ekkor közbeszól valamilyen zene az emlékezetből. Ez először a fájdalmas pillanatokkal kapcsolatos érzéseket hozza elő, majd az ezeken való felülkerekedés érzése. Ilyenkor ezek mennek a fejemben és ekkor érzem azt, hogy **megérkeztem, hadd szóljon**. Majd színpadra szólítanak: előadás elindítás, mikrofon be.. szem lehuny, mély levegő, közönség tekintetének megkeresése.. és hajrá.
-Az előadásomra tervezett 15 perc egy pillanat alatt elillant: nem mondom, az első 2-3 mondatban benne volt a feszültség a hangomban, de utána már csak pörgött a nyelvem, amennyire csak tudott.. és a vége? Hosszú taps, elégedett mosolyok és a csapat őszinte pillantása. Az ilyen pillanatokért is megéri a műszerek mögötti görcsös állapotok elviselése, hiszen minden sötét felhő mögött ott van a napfény, aminek eredménye a tanulás, fejlődés és a világnak való visszaadás.. mi ez, ha nem csodálatos?
-
-<p align="center">
-  <img src="/img/nyitodia.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/beszed2.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/beszed3.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-A nap hátralévő része további érdekfeszítő előadással, gálavacsorával és a helyszínről való elpakolással zárult.. ekkor már csak élveztem a pillanatot, majd 21:00-kor boldogan léptem be a szobám ajtaján és akasztottam a vállfára az öltönyzakót, közben pedig elindult egy random tüzijátékshow is a szomszédságban valahol. :)
-
-<p align="center">
-  <img src="/img/csapat.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/tuzijatek.jpg" alt="SET1" style="max-width:50%;">
-</p>
-
-
-**Így telt tehát egy PhD hallgató (nem) mindennapi hete.. élmények megőrzésével, következtetések levonásával konstatálom a történteket és vágok bele a következő hét feladataiba. Egy nap pihenő és hajrá!**
+Összességében egy tartalmas hét volt, amely a további fejlődésemet segítette. 
 
 **Kérdésed van? Érdekel esetleg egy téma, amiről szívesen olvasnál - hallanál, vagy csak a véleményemre lennél kiváncsi? [Ezen az oldalon felteheted őket!](https://www.facebook.com/profile.php?id=61575576670042)**
 
 *#TudományosNagykövet #NIÜ #MagyarTudományÉve*
+
 
