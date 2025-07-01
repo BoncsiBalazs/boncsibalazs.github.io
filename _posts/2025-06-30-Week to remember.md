@@ -6,7 +6,9 @@ categories: blog
 thumbnail: /img/20250630Regatta1.jpg
 ---
 
-Ahogy az általános iskolai tanulmányok végén fontos döntést kell hoznia a diáknak, úgy az érettségi évében is meghatározó lehet, merre szeretne továbbtanulni. Nem törvényszerű, de gyakran meghatározza egy ember életútját, hogy végül hova nyer felvételt — különösen akkor, ha a számára legkedvesebb helyet teszi az első helyre azon a bizonyos listán.
+Ahogy az általános iskolai tanulmányok végén fontos döntést kell hoznia a diáknak, úgy az érettségi évében is meghatározó lehet, merre szeretne továbbtanulni.
+
+Nem törvényszerű, de gyakran meghatározza egy ember életútját, hogy végül hova nyer felvételt — különösen akkor, ha a számára legkedvesebb helyet teszi az első helyre azon a bizonyos listán.
 
 *Emlékszem*, amikor az egyetemi pályaválasztás előtt álltam, bennem is különleges érzelmek kavarogtak. Elég jó lehetek egy egyetemhez? Képes vagyok-e a *„Balázs-sztorit”* egy olyan pályára állítani, amely a Boncsarovszki családban sem kikövezett, sem kijárt út nem volt?
 Akkor elhittem magamról, hogy simán lehetséges. A tanulmányi eredményeim ezt alátámasztották: 4,6-os átlag, OSZTV 1. helyezés, és a középiskolai tanáraim támogatása is jogos optimizmust adott. Így nem is volt kérdés, hogy a MATE jogelődjét írom első helyre a 2018/19-es tanévre szóló felvételi eljárás során.
