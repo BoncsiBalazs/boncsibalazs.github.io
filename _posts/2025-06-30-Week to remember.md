@@ -48,7 +48,7 @@ Ha szeretnél valami nagyszerűt létrehozni, itt biztosan összefogásra és k�
 
 
 Ezen felül a hét más eseményeket is tartogatott.
-Nyári egyetemet szerveztünk (erről később írok bővebben), valamint cikket írtam — és pénteken-szombaton részt vettem a [MATE Regattán](https://www.youtube.com/watch?v=3UtgUExDbMM), ahol a Budai Zöldek sárkányhajó-csapatát segíthettem a 20 csapatos versenyen.
+Nyári egyetemet szerveztünk (erről később írok bővebben), valamint cikket írtam — és pénteken-szombaton részt vettem a [MATE Regattán](https://www.youtube.com/watch?v=3UtgUExDbMM), ahol a Budai Zöldek sárkányhajó-csapatát segíthettem a 20 csapatos versenyen. Itt megnézheted, hogyan versenyeztünk az első fordulóban: [BUDAI CAMPUUUS](https://www.facebook.com/share/v/18paPBg6E5/)
 *Habár végül a 6. helyet szereztük meg, mégis úgy érzem, hogy én nyertem a legtöbbet: egy olyan fantasztikus társaság tagja lehettem, amiről álmodni sem mertem volna.*
 
 <p align="center">
@@ -59,12 +59,14 @@ Nyári egyetemet szerveztünk (erről később írok bővebben), valamint cikket
   <img src="/img/20250630Regatta4.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
-Ez pedig az Élelmiszertudományi és Technológiai Intézet vezetőinek társasága volt. Ők nemcsak hogy odaengedtek az asztalukhoz, hanem értékes beszélgetésekre, nevetésre és jókedvű közös élményekre is meghívtak.
+Ez pedig az Élelmiszertudományi és Technológiai Intézet vezetőit is tartalmazó társasága volt. Ők nemcsak hogy odaengedtek az asztalukhoz, hanem értékes beszélgetésekre, nevetésre és jókedvű közös élményekre is meghívtak.
 Sosem fogom elfelejteni ezt az eseményt.
 
 <p align="center">
   <img src="/img/20250630Regatta3.jpg" alt="SET1" style="max-width:30%;">
 </p>
+
+(További képeket ebben a bejegyzésben is olvashatsz: [TOTU](https://www.facebook.com/share/p/1ARthQPzqU/)
 
 
 **Őszintén kívánom, hogy mindenki megtalálja azt a helyet, ahol így fogadják és támogatják.
