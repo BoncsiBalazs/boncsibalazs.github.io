@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Na, ezért (is) éri meg ezt csinálni -  heti beszámoló: 2025.06.30-07.06
+title: A pillanatok, amelyet érdemes eltenni rosszabb napokra! 2025.06.30-07.05.
 date: 2025-07-06 
 categories: blog
 thumbnail: /img/20250630Regatta1.jpg
