@@ -20,8 +20,9 @@ A hét az előző vasárnappal kezdődött, ugyanis megérkeztek a HAUT egyetemr
 <p align="center">
   <img src="/img/20250706Labtour1.jpg" alt="SET1" style="max-width:30%;">
 </p>
+
 <p align="center">
-  <img src="/img/20250706étterem.jpg" alt="SET1" style="max-width:30%;">
+  <img src="/img/20250706létterem.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 
@@ -55,8 +56,9 @@ De a mozgalmas hét nem állt meg ott, hogy vasárnap elbúcsúztattuk az első 
 <p align="center">
   <img src="/img/20250706VéNégy1.jpg" alt="SET1" style="max-width:30%;">
 </p>
+
 <p align="center">
-  <img src="/img/20250706VéNégy2.jpg" alt="SET1" style="max-width:30%;">
+  <img src="/img/20250706Vénégy2.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 Tömör - és közel sem részletes- bejegyzésemet Széchenyi István 19. századból származó, de örökérvényű gondolatával zárnám, mely a következőképpen szól: "Egynek minden nehéz, soknak semmi sem lehetetlen".
