@@ -3,7 +3,7 @@ layout: default
 title: A pillanatok, amelyeket érdemes eltenni rosszabb napokra! 2025.06.30-07.05.
 date: 2025-07-06 
 categories: blog
-thumbnail: /img/20250630Regatta1.jpg
+thumbnail: /img/20250706Labtour2.jpg
 ---
 
 Idézd fel most azokat a napokat, amikor minden szutyok.. amikor az ébresztőn a "szundi" helyett a "kikapcsolás" gombra nyomsz, így a tervezetthez képest közel egy órás késésben vagy. A konyhában a kapkodás miatt a frissen felvett ruhádat is leöntöd, a rohanós textilcsere után  pedig kilépve a kapun jut eszedbe, hogy a zárban hagytad az lakásajtó kulcsát. Ismerős ez a helyzet, ugye? 
