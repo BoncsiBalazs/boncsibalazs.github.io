@@ -41,7 +41,7 @@ A hét csúcspontja a megtartott prezentációk felül a péntek esti hajós vac
 </p>
 
 
-De a mozgalmas hét nem állt meg ott, hogy vasárnap elbúcsúztattuk az első heti, illetve fogadtuk a második heti csoportot: kedden egy tudományos nagyköveti tevékenységemnek tettem eleget (amelyről a későbbiekben számolok be), szerdán egy házivédésen tanulhattam a tojáshelyettesítőkkel kapcsolatosan hasznos dolgokat, valamint csütörtökön részt vettem a MATE ÉTTI 2024/25/2 félévi diplomaosztójának -és egyben tanévzáró- ünnepi tanácsülésén, ahol nem csak szervezési feladataim voltak..hanem az OTDK-n nyújtott teljesítményemnek köszönhetően (ahol tagozati különdíjban részesültem), intézetigazgatói dicséretet vehettem át. Ugyanakkor mint minden más, ez is egy csapatmunka eredménye, így ezúton is köszönöm Dr. Gere Attilának és (immár) Dr. Szakál Dorinának azt az elkötelezett munkát, amelyet azon pályamunka elkészülésében is végeztek. Zseniális mentorok és hihetetlenül jó EMBEREK (!), akik sosem fordítanak hátat azoknak, akik segítséget kérnek.
+De a mozgalmas hét nem állt meg ott, hogy vasárnap elbúcsúztattuk az első heti, illetve fogadtuk a második heti csoportot: kedden egy tudományos nagyköveti tevékenységemnek tettem eleget (amelyről a későbbiekben számolok be), szerdán egy házivédésen tanulhattam a tojáshelyettesítőkkel kapcsolatosan hasznos dolgokat, valamint csütörtökön részt vettem a MATE ÉTTI 2024/25/2 félévi diplomaosztójának -és egyben tanévzáró- ünnepi tanácsülésén, ahol nem csak szervezési feladataim voltak..hanem az OTDK-n nyújtott teljesítményemnek köszönhetően (ahol tagozati különdíjban részesültem), intézetigazgatói dicséretet vehettem át. Ugyanakkor mint minden más, ez is egy csapatmunka eredménye, így ezúton is köszönöm [Dr. Gere Attilának](https://research.uni-mate.hu/hu/w/gere-attila) és (immár Dr.) [Szakál Dorinának](https://scholar.google.hu/citations?user=n16fCGcAAAAJ&hl=hu) azt az elkötelezett munkát, amelyet a pályamunka elkészülésében is végeztek. Zseniális mentorok és hihetetlenül jó EMBEREK (!), akik sosem fordítanak hátat azoknak, akik segítséget kérnek.
 
 <p align="center">
   <img src="/img/20250706házivédés.jpg" alt="SET1" style="max-width:30%;">
@@ -51,7 +51,7 @@ De a mozgalmas hét nem állt meg ott, hogy vasárnap elbúcsúztattuk az első 
   <img src="/img/20250706dicséret.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
-És ez még nem minden! Pénteken még arra is volt lehetőségem, hogy a VéNégy fesztiválon a Theatrewagen színpadán Halmai Mónikával együtt megoszthassuk gondolatainkat a tudományterületeink aktuális kérdéseiről, illetve hogy bemutassuk a Magyar Tudomány Éve programot egy izgalmas panelbeszélgetés keretében. Ezúton is köszönjük a szervezőknek, valamint a Nemzeti Innovációs Ügynökségnek, hogy lehetőve tették, hogy itt is megmutathassuk magunkat!
+És ez még nem minden! Pénteken még arra is volt lehetőségem, hogy a [VéNégy fesztiválon a Theaterwagen színpadán](https://venegyfesztival.hu/venegy-tudomanyos-nagykovetek/) [Halmai Mónikával](https://www.facebook.com/mnikahalmai) együtt megoszthassuk gondolatainkat a tudományterületeink aktuális kérdéseiről, illetve hogy bemutassuk a Magyar Tudomány Éve programot egy izgalmas panelbeszélgetés keretében. Ezúton is köszönjük a szervezőknek, valamint a Nemzeti Innovációs Ügynökségnek, hogy lehetőve tették, hogy itt is megmutathassuk magunkat!
 
 <p align="center">
   <img src="/img/20250706VéNégy1.jpg" alt="SET1" style="max-width:30%;">
@@ -64,17 +64,6 @@ De a mozgalmas hét nem állt meg ott, hogy vasárnap elbúcsúztattuk az első 
 Tömör - és közel sem részletes- bejegyzésemet Széchenyi István 19. századból származó, de örökérvényű gondolatával zárnám, mely a következőképpen szól: "Egynek minden nehéz, soknak semmi sem lehetetlen".
 
 Hálásan köszönöm a lehetőséget és az élményt mindenkinek!
-
-
-
-
-<p align="center">
-  <img src="/img/20250630BudaiCampus.jpg" alt="SET1" style="max-width:30%;">
-</p>
-
-
-
-
 
 
 **Kérdésed van? Érdekel esetleg egy téma, amiről szívesen olvasnál - hallanál, vagy csak a véleményemre lennél kiváncsi? [Ezen az oldalon felteheted őket!](https://www.facebook.com/profile.php?id=61575576670042)**
