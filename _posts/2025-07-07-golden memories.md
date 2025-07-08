@@ -6,7 +6,7 @@ categories: blog
 thumbnail: /img/20250706Labtour2.jpg
 ---
 
-**Idézd fel most azokat a napokat, amikor minden szutyok**.. amikor az ébresztőn a "szundi" helyett a "kikapcsolás" gombra nyomsz, így a tervezetthez képest közel félórás késésben vagy. A konyhában a kapkodás miatt a frissen felvett ruhádat is leöntöd, a rohanós textilcsere után pedig kilépve a kapun jut eszedbe, hogy a zárban hagytad az lakásajtó kulcsát. Ismerős ez a helyzet, ugye? 
+**Most idézd fel azokat a napokat, amikor minden szutyok**.. amikor az ébresztőn a "szundi" helyett a "kikapcsolás" gombra nyomsz, így a tervezetthez képest közel félórás késésben vagy. A konyhában a kapkodás miatt a frissen felvett ruhádat is leöntöd, a rohanós textilcsere után pedig kilépve a kapun jut eszedbe, hogy a zárban hagytad az lakásajtó kulcsát. Ismerős ez a helyzet, ugye? 
 *El sem indult a nap és máris minden el van b@.... cseszve.*
 
 Aztán beérsz a melóhelyre, a kollégáktól pedig a "jó reggelt!" üzenet helyett a "nocsak - nocsak, betévedtünk?" üzenet fogad. Mintha nem lenne elég a saját lelkiismereteddel elszámolni, még másoktól is kapod az ívet.. és akkor a szenvedős, "pepecselős" feladatokról nem is beszéltünk, amelyeket baromi ritkán sikerül elsőre zökkenőmentesen megoldani, amely miatt megint csak konfliktus keletkezik a munkatársak és a partnerek között. **Na, ez az a pillanat, amikor úgy érezhetjük, hogy nemcsak a sötét felhők gyülekezését érezzük a bőrünkön, hanem a jéghideg esőcseppek koppanását is.**
