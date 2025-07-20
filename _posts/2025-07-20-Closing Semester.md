@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vége egy szemeszternek..jöhet az újabb!-2025.07.07-18.
+title: Vége egy szemeszternek..Kérem a következőt!-2025.07.07-18.
 date: 2025-07-19 
 categories: blog
 thumbnail: /img/20250720SummerSchoolParlament.jpg
