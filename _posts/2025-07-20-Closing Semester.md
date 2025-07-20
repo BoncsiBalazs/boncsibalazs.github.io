@@ -33,7 +33,7 @@ Ezúton is gratulálok az előadáshoz!
   <img src="/img/20250720SummerSchool2Házivédés.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
-Ezen időszak harmadik örvendetes híre volt, amely kedden este érkezett az elektronikus levelesládámba: Befogadták az első tudományos cikkemet, így hamarosan annak megjelenésére is számíthatok a [Progress in Agricultural Engineering Sciences](https://www.scimagojr.com/journalsearch.php?q=9500154150&tip=sid&clean=0), Q2-es besorolású folyóíratban! Természetesen a tanulmányól készülni fog egy magyar nyelvű, rövid bemutató cikk, hogy Ti is betekintést nyerjetek abba, mit is csinál egy "érzékszervis".
+Ezen időszak harmadik örvendetes híre volt, amely kedden este érkezett az elektronikus levelesládámba: Befogadták az első tudományos cikkemet, így hamarosan annak megjelenésére is számíthatok a [Progress in Agricultural Engineering Sciences](https://www.scimagojr.com/journalsearch.php?q=9500154150&tip=sid&clean=0), Q2-es besorolású folyóíratban! Természetesen a tanulmányól készülni fog egy magyar nyelvű, rövid bemutató cikk, hogy Ti is betekintést nyerjetek abba, mivel is(!) foglalkozik egy "érzékszervis".
 
 Ennek örömére (illetve, hogy a 2024-25-2 tanulmányi félév is lezárásra került) jobban belemélyedtem néhány vázlat kibővítésébe és összeraktam számos olyan kézíratot, amelyet a félév folyamán megkezdtem, de valamilyen oknál fogva nem tudtam végigvinni.. Még közel sem értem a végére, de talán a következő pár nap lehetőséget kínál arra, hogy elkezdjek megfelelni a magamnak felállított követelményeknek.
 
