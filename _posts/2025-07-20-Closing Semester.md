@@ -8,7 +8,7 @@ thumbnail: /img/20250720SummerSchoolParlament.jpg
 
 Az előző blogbejegyzésben egy kissé intenzív hetet mutatott be.. Nos, vannak napok, amikor nem ennyire látványos a pörgés, de az elmúlt két hétben sem unatkozhattam.
 
-..ugyanis a HAUT egyetemről ismét érkezett egy 27 fős hallgató csoport, ahol alap-és mesterképzéses hallgatók tölthettek el egy tartalmas hetet a MATE ÉTTI-ben. Az Ő programjuk is hasonlóan izgalmas volt, mint az előző társaságnak, viszont ezen a héten már túró rudit fejlesztettek a hallgatók. A projektfeladatuk abból állt, hogy miképpen lehet helyettesíteni a túrót a TOTU termékcsalád termékeivel, valamint megemelni a fehérjetartalmukat úgy, hogy a végtermék hasonlóan fantasztikus legyen, mint a referenciának.. és bizony sikerült!
+..ugyanis a HAUT egyetemről ismét érkezett egy 27 fős hallgató csoport, ahol alap-és mesterképzéses hallgatók tölthettek el egy tartalmas hetet a MATE ÉTTI-ben. Az Ő programjuk is hasonlóan izgalmas volt, mint az előző társaságnak, viszont ezen a héten már túró rudit fejlesztettek a hallgatók. A projektfeladatuk abból állt, hogy miképpen lehet helyettesíteni a túrót [TOTU](https://capriovus.eu/totu-termekek/) termékekkel, valamint megemelni a fehérjetartalmukat úgy, hogy a végtermék hasonlóan fantasztikus legyen, mint a referenciának.. és bizony sikerült!
 A munka mellett természetesen kikapcsolódásra is hagytunk lehetőséget, sőt! Számtalan olyan lehetőséget kínáltunk nekik a magyarországi kultúrális élet rejtelmeibe való elmélyedés kapcsán, amelyhez örömmel csatlakoztak és szemmel láthatólag jól is érezték magukat!
 
 Büszke vagyok, hogy ilyen programokhoz is kapcsolódhatok az Egyetem jóvoltából, így hálásan köszönöm mindenkinek, akivel ezen két hét alatt együtt dolgozhattam! :')
