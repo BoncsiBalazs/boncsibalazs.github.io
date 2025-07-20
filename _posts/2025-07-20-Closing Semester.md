@@ -37,12 +37,12 @@ Ezen hét harmadik örvendetes híre volt, amely kedden este érkezett az elektr
 Ennek örömére (illetve, hogy a 2024-25-2 tanulmányi félév is lezárásra került) jobban belemélyedtem a publikációk írásába és összeraktam számos olyan kézíratot, amelyet a félév folyamán megkezdtem, de valamilyen oknál fogva nem tudtam végigvinni.. Még közel sem értem a végére, de talán a következő pár nap lehetőséget kínál arra, hogy elkezdjek megfelelni a magamnak felállított követelményeknek.
 
 <p align="center">
-  <img src="/img/20250720SummerSchool2Lánchíd.jpg" alt="SET1" style="max-width:30%;">
+  <img src="/img/20250720SummerSchoolLánchíd.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 
 <p align="center">
-  <img src="/img/20250720SummerSchool2Bor.jpg" alt="SET1" style="max-width:30%;">
+  <img src="/img/20250720SummerSchoolBor.jpg" alt="SET1" style="max-width:30%;">
 </p>
 
 
