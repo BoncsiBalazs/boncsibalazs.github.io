@@ -8,12 +8,12 @@ thumbnail: /img/20251019ScienceExpo1.png
 ---
 
 Nos, az imént sem sikerült a heti szintű blogbejegyzések kreálása.. ellenben a  [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
-**Ha tetszenek a tartalmak, kérlek hagyj az oldalakon egy-egy kedvelést, az hatalmas elismerés és jó visszajelzés lenne számomra az aktivitások reagálását illetően.**
+**Ha tetszenek a tartalmak, kérlek hagyj az oldalakon egy-egy kedvelést, az hatalmas elismerés és jó visszajelzés lenne számomra az aktivitások fogadtatását illetően.**
 
 
 Nade elég is a reklámból, nézzük, _mi történt az elmúlt bejegyzés óta._
 
-Október 3-án néhány tudományos nagykövet társammal  ([Halasi Áronnal](https://www.facebook.com/profile.php?id=61575395624488) és [Nagy Felíciánnal](https://www.facebook.com/space.felician) ) meglátogattuk a_ Capriovus Kft szigetcsépi tojásfeldolgozó üzemét_, ahol [Dr. Németh Csaba](https://igenyesferfi.hu/uzlet-siker/dr-nemeth-csaba-bebizonyitotta-valoban-tojasbol-lesz-a-csoda.php) mutatta be izgalmasan ismertette a tojáás felhasználásának lehetőségeit, amelynek egy kiváló formája a **ToTu** [Tojás Tudatosan](https://capriovus.eu/totu-termekek/).
+Október 3-án néhány tudományos nagykövet társammal  ([Halasi Áronnal](https://www.facebook.com/profile.php?id=61575395624488) és [Nagy Felíciánnal](https://www.facebook.com/space.felician) ) meglátogattuk a _Capriovus Kft szigetcsépi tojásfeldolgozó üzemét_, ahol [Dr. Németh Csaba](https://igenyesferfi.hu/uzlet-siker/dr-nemeth-csaba-bebizonyitotta-valoban-tojasbol-lesz-a-csoda.php) mutatta be izgalmasan ismertette a tojás felhasználásának lehetőségeit, amelynek egy kiváló formája a **ToTu** [Tojás Tudatosan](https://capriovus.eu/totu-termekek/).
 
 **Egy zsenális délelőttöt tölthettünk el együtt, köszönjük Csaba!**
 
@@ -29,10 +29,10 @@ A látogatásról egyébként a [Trade Magazin](https://trademagazin.hu/hu/tudom
   <img src="/img/20251019ToTu2.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
-Szintén azon a héten egy hosszú cikkírásos folyamatot zárhattunk le és leadtuk a kiszemelt folyóíratnak a közölni kívánt kézíratot. _"Fingers crossed!"_
+Szintén azon a héten egy fáradalmnas cikkírásos folyamatot zárhattunk le és leadtuk a kiszemelt folyóíratnak a publikálni kívánt kéziratot. _"Fingers crossed!"_
 
 
-Örömmel vettem a kezembe az **Ócsa Városi Magazinnal készített portrébeszélgetésünket** tartalmazó számát, amelynek esetében szintén hálával tartozom K**atona-Zsombori Évának és a Szerkesztőségnek**.
+Örömmel vettem a kezembe az **Ócsa Városi Magazinnal készített portrébeszélgetésünket** tartalmazó számát, amelynek esetében szintén hálával tartozom **Katona-Zsombori Évának és a Szerkesztőségnek**.
 
 _A 2025. októberi szám [ITT, a 19. oldalon](https://ocsa.hu/magazin/2025.-oktoberi-szam_112923.pdf) olvasható._
 
@@ -49,7 +49,7 @@ Az ezt követő héten leginkább egy érzékszervi minősítéssel kapcsolatos 
 Ezeken belül pedig fogadtam a [**MATE2030 Hallgatói Mentorprogramban**](https://uni-mate.hu/hallgat%C3%B3i-mentorprogram) az első hallgatóimat, akikkel _rendkívül jó hangulatú, progresszív beszélgetéseket_ folytattunk.
 
 Ezt követően pedig újból egy intenzív hétnek lehettem részese, hiszen nemcsak több másik kísérletben végeztem szervezési és résztvevői feladatokat, hanem több konferencián is részt vettem, mint kiállító vagy "megfigyelő". 
-Ilyen volt például az októer 15-ei [**NAK FoodTechShow**](https://www.nak.hu/sajto/sajtokozlemenyek/109414-sikerrel-zarult-a-foodtechshow) vagy például az október 17-ei **ÉTTI szakmai nap.**
+Ilyen volt például az október 15-ei [**NAK FoodTechShow**](https://www.nak.hu/sajto/sajtokozlemenyek/109414-sikerrel-zarult-a-foodtechshow) vagy például az október 17-ei **ÉTTI szakmai nap.**
 
 Továbbá szintén ezen a héten _jelent meg egy írásom_ a Tudomány Éve weboldalán, amelynek apropója az október 16-ai Élelmezési Világnap. **Ha van időd, olvasd el a cikket** [ITT](https://www.tudomanyeve.hu/post/ne-etesd-a-kukat-avagy-azok-volnank-mint-amit-nem-eszunk-meg).
 
@@ -63,9 +63,9 @@ Továbbá szintén ezen a héten _jelent meg egy írásom_ a Tudomány Éve webo
 
 De az elmúlt hét egyik legnagyobb tevékenysége az október 28-30 között zajló háromnapos rendezvénysorozat előkészítése, amely nem más, mint a **Science Expo**. 
 
-Nagy örömömre szolgál, hogy mindhárom napon lesz színpadi aktivitásom (előadás, kerekasztalok), amelyek közül a számomra leginkább izgatottan várt eseménye az **október 28-ai, ~10:25-kor kezdődő előadásom, amely közvetlenül a hivatalos megnyitója előtt lesz látható és hallható** [amelyen Hankó Balázs kultúráért és innovációért felelős miniszter is köszöntőt mond), de ezek **mellett beszélgetni fogunk az élelmiszerpazarlásról, illetve a Tudományos Karrierről is.**
+Nagy örömömre szolgál, hogy mindhárom napon lesz színpadi aktivitásom (előadás, kerekasztalok), amelyek közül a számomra az egyik leginkább izgatottan várt esemény az **október 28-ai, ~10:25-kor kezdődő előadásom, amely közvetlenül a hivatalos megnyitója előtt lesz látható és hallható** [amelyen Hankó Balázs kultúráért és innovációért felelős miniszter is köszöntőt mond), de ezek **mellett beszélgetni fogunk az élelmiszerpazarlásról, illetve a Tudományos Karrierről is (hogy pontosan mikor? Görgess ezen cikk aljára! ;) .**
 
-Az eseménnyel kapcsolatos_ legfrissebb információk_ [ITT érhetőek el](https://www.facebook.com/events/1477338803539713), de közösségi média felületeimen folyamatosan adok tájékoztatást a fejleményekről.
+Az eseménnyel kapcsolatos _legfrissebb információk_ [ITT érhetőek el](https://www.facebook.com/events/1477338803539713), de közösségi média felületeimen folyamatosan adok tájékoztatást a fejleményekről.
 
 A programmal kapcsolatosan az **M2 Petőfi Csatorna Esti Kornél című műsorában adtunk interjút** [Sági Stella Tudományos Nagykövettel](https://www.facebook.com/ssagistella), amelyet [ITT hallgathatsz meg](https://mediaklikk.hu/video/2025/10/16/science-expo-2025). 
 
