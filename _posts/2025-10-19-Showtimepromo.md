@@ -24,11 +24,12 @@ A látogatásról egyébként a [Trade Magazin](https://trademagazin.hu/hu/tudom
   <img src="/img/20251019ToTu1.png" alt="SET1" style="max-width:50%;">
 </p>
 
+
 <p align="center">
-  <img src="/img/20251019ToTu2.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019ToTu2.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
-Szintén azon a héten egy hosszú cikkírásos folyamatot zárhattunk le és leadtuk a kiszemelt folyóíratnak a közölni kívánt kézíratot. "Fingers crossed!"
+Szintén azon a héten egy hosszú cikkírásos folyamatot zárhattunk le és leadtuk a kiszemelt folyóíratnak a közölni kívánt kézíratot. _"Fingers crossed!"_
 
 
 Örömmel vettem a kezembe az **Ócsa Városi Magazinnal készített portrébeszélgetésünket** tartalmazó számát, amelynek esetében szintén hálával tartozom K**atona-Zsombori Évának és a Szerkesztőségnek**.
@@ -71,7 +72,6 @@ A programmal kapcsolatosan az **M2 Petőfi Csatorna Esti Kornél című műsorá
 Nagyon köszönöm ezúton is a közös munkát Stellának, a műsor szerkesztőségének és a NIÜ-nek, akik lehetővé tették ezt a lehetőséget számunkra.
 
 
-
 <p align="center">
   <img src="/img/20251019M21.png" alt="SET1" style="max-width:50%;">
 </p>
@@ -81,26 +81,25 @@ Nagyon köszönöm ezúton is a közös munkát Stellának, a műsor szerkesztő
 </p>
 
 Ennyi történt az elmúlt időszakban, hamarosan jelentkezem egy új bejegyzésben. 
-**Addig is vigyázzatok magatokra és minél többen gyertek a Science Expo-ra! 
+**Addig is vigyázzatok magatokra és minél többen gyertek a Science Expo-ra!**
 
-Hozzatok, hívjatok minél több embert, hiszen nem csak a tudomány kerül ki a laboratóriumi falakon kívül, hanem számos más izgalmas programban is részt vehettek ingyenesen, regisztráció nélkül!**
+**Hozzatok, hívjatok minél több embert, hiszen nem csak a tudomány kerül ki a laboratóriumi falakon kívül, hanem számos más izgalmas programban is részt vehettek ingyenesen, regisztráció nélkül!**
 
 <p align="center">
   <img src="/img/20251019ScienceExpo0.png" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/20251019ScienceExpo1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Science Expo_1.png" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/20251019ScienceExpo2.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Science Expo_2.png" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/20251019ScienceExpo3.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Science Expo_3.png" alt="SET1" style="max-width:50%;">
 </p>
-
 
 **Kérdésed van? Érdekel esetleg egy téma, amiről szívesen olvasnál - hallanál, vagy csak a véleményemre lennél kíváncsi? [Ezen az oldalon felteheted őket!](https://www.facebook.com/profile.php?id=61575576670042)**
 
