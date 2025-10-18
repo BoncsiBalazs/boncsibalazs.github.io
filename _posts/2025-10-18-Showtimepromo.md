@@ -2,7 +2,7 @@
 layout: default
 title: Nagy lehetőség kapujában!
 subtitle: Előadások szezonja és ami mögötte van.
-date: 2025-10-19 
+date: 2025-10-18 
 categories: blog
 thumbnail: /img/20251019ScienceExpo1.png
 ---
@@ -13,9 +13,9 @@ Nos, az imént sem sikerült a heti szintű blogbejegyzések kreálása.. ellenb
 
 Nade elég is a reklámból, nézzük, _mi történt az elmúlt bejegyzés óta._
 
-Október 3-án néhány tudományos nagykövet társammal ( ([Halasi Áronnal](https://www.facebook.com/profile.php?id=61575395624488) és [Nagy Felíciánnal](https://www.facebook.com/space.felician) ) meglátogattuk a_ Capriovus Kft szigetcsépi tojásfeldolgozó üzemét_, ahol [Dr. Németh Csaba](https://igenyesferfi.hu/uzlet-siker/dr-nemeth-csaba-bebizonyitotta-valoban-tojasbol-lesz-a-csoda.php) mutatta be izgalmasan ismertette a tojáás felhasználásának lehetőségeit, amelynek egy kiváló formája a **ToTu** [Tojás Tudatosan](https://capriovus.eu/totu-termekek/).
+Október 3-án néhány tudományos nagykövet társammal  ([Halasi Áronnal](https://www.facebook.com/profile.php?id=61575395624488) és [Nagy Felíciánnal](https://www.facebook.com/space.felician) ) meglátogattuk a_ Capriovus Kft szigetcsépi tojásfeldolgozó üzemét_, ahol [Dr. Németh Csaba](https://igenyesferfi.hu/uzlet-siker/dr-nemeth-csaba-bebizonyitotta-valoban-tojasbol-lesz-a-csoda.php) mutatta be izgalmasan ismertette a tojáás felhasználásának lehetőségeit, amelynek egy kiváló formája a **ToTu** [Tojás Tudatosan](https://capriovus.eu/totu-termekek/).
 
-Egy zsenális délelőttöt tölthettünk el együtt, köszönjük Csaba!
+**Egy zsenális délelőttöt tölthettünk el együtt, köszönjük Csaba!**
 
 A látogatásról egyébként a [Trade Magazin](https://trademagazin.hu/hu/tudomanyos-nagykovetek-latogattak-a-szigetcsepi-tojasfeldolgozo-uzembe/?fbclid=IwY2xjawNgEgFleHRuA2FlbQIxMQABHhN-ABX8NlNfAUjQl10Ces4v1cnXhsq1Bp3tMfZLyjeqbtlc1D8NGXifmuBz_aem_G01rq9y31BxP3v24YeDKwA) is hozott le egy cikket. :)
 
