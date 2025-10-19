@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Nagy lehetőségek kapujában!
-subtitle: ""Ez egy idióta ötlet.. CSINÁLJUK!""
+subtitle: "Ez egy idióta ötlet, Balázs... CSINÁLJUK!"
 date: 2025-10-18 
 categories: blog
 thumbnail: /img/20251019ScienceExpo1.png
 ---
 
-Nos, az imént sem sikerült a heti szintű blogbejegyzések kreálása.. ellenben a  [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
+Nos, ebben a hónapban sem sikerült a heti szintű blogbejegyzések kreálása.. ellenben a  [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
 **Ha tetszenek a tartalmak, kérlek hagyj az oldalakon egy-egy kedvelést, az hatalmas elismerés és jó visszajelzés lenne számomra az aktivitások fogadtatását illetően.**
 
 
