@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Nagy lehetőség kapujában!
-subtitle: Előadások szezonja és ami mögötte van.
+title: Nagy lehetőségek kapujában!
+subtitle: "Ez egy idióta ötlet.. CSINÁLJUK!"
 date: 2025-10-18 
 categories: blog
 thumbnail: /img/20251019ScienceExpo1.png
