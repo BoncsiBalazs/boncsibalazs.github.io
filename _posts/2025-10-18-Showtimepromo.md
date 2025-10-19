@@ -63,7 +63,7 @@ Továbbá szintén ezen a héten _jelent meg egy írásom_ a Tudomány Éve webo
 
 De az elmúlt hét egyik legnagyobb tevékenysége az október 28-30 között zajló háromnapos rendezvénysorozat előkészítése, amely nem más, mint a **Science Expo**. 
 
-Nagy örömömre szolgál, hogy mindhárom napon lesz színpadi aktivitásom (előadás, kerekasztalok), amelyek közül a számomra az egyik leginkább izgatottan várt esemény az **október 28-ai, ~10:25-kor kezdődő előadásom, amely közvetlenül a hivatalos megnyitója előtt lesz látható és hallható** [amelyen Hankó Balázs kultúráért és innovációért felelős miniszter is köszöntőt mond), de ezek **mellett beszélgetni fogunk az élelmiszerpazarlásról, illetve a Tudományos Karrierről is (hogy pontosan mikor? Görgess ezen cikk aljára! ;) .**
+Nagy örömömre szolgál, hogy mindhárom napon lesz színpadi aktivitásom (előadás, kerekasztalok), amelyek közül a számomra az egyik leginkább izgatottan várt esemény az **október 28-ai, ~10:25-kor kezdődő előadásom, amely közvetlenül a hivatalos megnyitója előtt lesz látható és hallható** [a megnyitón Hankó Balázs kultúráért és innovációért felelős miniszter is köszöntőt mond), de ezek **mellett beszélgetni fogunk az élelmiszerpazarlásról, illetve a Tudományos Karrierről is (hogy pontosan mikor? Görgess ezen cikk aljára! ;) .**
 
 Az eseménnyel kapcsolatos _legfrissebb információk_ [ITT érhetőek el](https://www.facebook.com/events/1477338803539713), de közösségi média felületeimen folyamatosan adok tájékoztatást a fejleményekről.
 
