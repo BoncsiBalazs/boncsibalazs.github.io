@@ -44,6 +44,6 @@ További tartalmakat osztok meg magamról az alábbi közösségi média felüle
 _Gyere, beszélgessünk egy jót és fejlesszük-segítsük egymást! :)_
 
 <p style="float: left; margin-left: 14px; width: 150px;">
-  <img src="/img/Balázs QR-s.png" alt="Polgárőrség" 
+  <img src="/img/Balázs QR-s.png" 
        style="width: 100%; height: auto; border-radius: 50%;">
 </p>
