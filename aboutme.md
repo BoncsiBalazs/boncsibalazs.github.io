@@ -43,7 +43,7 @@ Mottómként a következő jelmondatot tudom megfogalmazni:
 További tartalmakat osztok meg magamról az alábbi közösségi média felületeken, amelyeknek linkjét az "Elérhetőségeim" fül alatt találsz. 
 _Gyere, beszélgessünk egy jót és fejlesszük-segítsük egymást! :)_
 
-<p style="float: left; margin-left: 14px; width: 150px;">
-  <img src="/img/Balázs QR-s.png" 
-       style="width: 100%; height: auto; border-radius: 50%;">
+<p align="center">
+  <img src="/img/Balázs QR-s.png" alt="SET1" style="max-width:50%;">
 </p>
+
