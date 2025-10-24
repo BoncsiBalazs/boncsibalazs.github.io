@@ -44,6 +44,6 @@ További tartalmakat osztok meg magamról az alábbi közösségi média felüle
 _Gyere, beszélgessünk egy jót és fejlesszük-segítsük egymást! :)_
 
 <p align="center">
-  <img src="/img/Balázs QR-s.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/Balázs QR-s.png" alt="SET1" style="max-width:80%;">
 </p>
 
