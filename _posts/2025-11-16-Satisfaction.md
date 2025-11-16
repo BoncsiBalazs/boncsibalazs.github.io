@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Nagy lehetőségek kapujában!
