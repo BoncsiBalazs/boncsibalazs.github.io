@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Nagy lehetőségek kapujában!
-subtitle: "Ez egy idióta ötlet, Balázs... CSINÁLJUK!"
+title: Amikor más szemében is meglátod a csillogást..
+subtitle: ..máris másképpen érzed kimerültnek magad!
 date: 2025-10-18 
 categories: blog
-thumbnail: /img/20251019ScienceExpo1.png
+thumbnail: /img/avatar-icon.png
 ---
 
 Nos, ebben a hónapban sem sikerült a heti szintű blogbejegyzések kreálása.. ellenben a  [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
