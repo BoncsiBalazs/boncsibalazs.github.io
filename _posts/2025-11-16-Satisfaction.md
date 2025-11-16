@@ -7,7 +7,7 @@ categories: blog
 thumbnail: /img/avatar-icon.png
 ---
 
-..mert bizony abból is tudsz erőt meríteni, ha másnak adsz hitet, esélyt és lehetőséget. De hogy pontosan miről van szó? 
+..mert bizony abból tudsz igazán erőt meríteni, ha másnak adsz hitet, segítséget és lehetőséget. De hogy pontosan miről van szó? 
 Ebből a bejegyzésből kiderül!
 
  Ne felejtsd: A [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
