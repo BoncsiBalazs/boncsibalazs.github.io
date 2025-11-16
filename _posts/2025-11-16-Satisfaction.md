@@ -106,7 +106,7 @@ Az előadáson felül felül szakmai kerekasztalban (élelmiszerpazarlás témak
 
 
 Ennek levezetéseként október 30-án a **Manna FM-ben volt lehetőségem bemutatni a Tudományos Nagyköveteket és a programunk célját** [Ferencz Gabival](https://www.facebook.com/gabi.ferencz). 
-A beszélgetést vágatlanul az [alábbi linken hallgathatod meg](https://soundcloud.com/mannafm/tudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fmannafm%252Ftudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3)
+A beszélgetést vágatlanul az [alábbi linken hallgathatod meg](https://soundcloud.com/mannafm/tudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fmannafm%252Ftudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3).
 
 <p align="center">
   <img src="/img/20251116MannaFM.jpg" alt="SET1" style="max-width:50%;">
