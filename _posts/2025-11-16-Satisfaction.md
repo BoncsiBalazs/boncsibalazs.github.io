@@ -19,26 +19,26 @@ Kezdjük rögtön a rákövetkező héttel, ahol a kulcspillanatokat egy termék
 Ezúton is köszönöm az EcocZero Revolution csapatánakés a háttérben segédkező oktatóknak és munkatársaknak, akik lehetővé tették az egészet!
 
 <p align="center">
-  <img src="/img/20251116Reading1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251116Reading1.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/2025116Reading2.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/2025116Reading2.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/2025116Reading3.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/2025116Reading3.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 <p align="center">
-  <img src="/img/2025116Reading4.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/2025116Reading4.jpg alt="SET1" style="max-width:50%;">
 </p>
 
-Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezdtünk, majd a hétfő délutánt egy HírTV interjúval folytattuk, ahol a Radar c. műsorban oszthattuk meg véleményünket az élelmiszerhulladék és élelmiszerpazarlás témakörében az Élelmiszertudományi és Technológiai Intézet Intézetigazgatójával, Prof.Dr.Friedrich Lászlóval. 
+Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezdtünk, majd a hétfő délutánt egy HírTV interjúval folytattuk, ahol a Radar c. műsorban oszthattuk meg gondolatainkat az élelmiszerhulladék és élelmiszerpazarlás témakörében az Élelmiszertudományi és Technológiai Intézet Intézetigazgatójával, Prof.Dr.Friedrich Lászlóval. 
 
 
 <p align="center">
-  <img src="/img/2025116Reading4.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/2025116ATV.png" alt="SET1" style="max-width:50%;">
 </p>
 
 
@@ -46,23 +46,70 @@ Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezd
 Ezt követően jött el október 28-29 és 30, amely három napban nagyszínpadi előadást tarthattam az Élelmiszeripar Jövőjét érintő technológiákról, mindezt olyan "Balázsosan". Külön örömömre szolgált, hogy a rendelkezésre álló székek között alig volt szabad hely, valamint hogy kérdéseket is kaptam az előadás után, ahol megannyi fiatal csillogó és ígéretes tekintetét is láthattam.
 Sőt, ezeken felül szakmai kerekasztalban (élelmiszerpazarlás témakörben) vehetettem részt, valamint a további napokon konferálást és moderálást és kerekasztal-diszkussziót (Megéri-e fiatalként a tudomány?) is végezhettem.. ezeken felül az esemény fénypontja azon felül, hogy a Nagykövetekkel találkozhattam az az volt, amikor magyar űrkutatás két feltörekvő igéretével, Kapu Tiborral és Cserényi Gyulával is találkozhattam, sőt, rövid beszélgetéseket is folytathattunk!
 
-<p align="center">
-  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
-</p>
 
 
 Ezúton is hálásan köszönöm mindenkinek, különösen a Nemzeti Innovációs Ügynökségnek, valamint a MATE Élelmiszertudományi és Technológiai Intézetének a támogatást és a bizalmat! Egy izgalmas pszichés felkészülést követően örök élményt és rengeteg tapasztalatot szereztem.
 
+
 <p align="center">
-  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251116ScienceExpo1.jpg" alt="SET1" style="max-width:50%;">
 </p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo2.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo3.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo4.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo5.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo6.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo7.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo8.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo9.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo10.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo11.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116ScienceExpo12.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
 
 Ennek levezetéseként október 30-án a Manna FM-ben volt lehetőségem bemutatni a Tudományos Nagyköveteket és a programunk célját [Ferencz Gabival](https://www.facebook.com/gabi.ferencz). 
 
 A beszélgetést vágatlanul az [alábbi linken hallgathatod meg](https://soundcloud.com/mannafm/tudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fmannafm%252Ftudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3)
 
 <p align="center">
-  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251116MannaFM.jpg" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/20251116MannaFM2.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 
@@ -72,7 +119,7 @@ Addig is készülj, mert sok helyen találkozhatunk (és nem csupán TDK-n, vagy
 Hamarosan Szegeden is ütközhetünk, hiszen 12.08-án Szegeden 14.00 órától a Rezonancia Középiskolásoknak eseményen és az azt követő órákban is azon a környéken leszek és a kerekasztal beszélgetésen is mesélhetek arról, hogy mit jelent ma a tudomány szolgálatában tevékenykedni és milyen emberek vannak a laborfalak és a köpenyek mögött. Az esemény [Facebook elérhetőség itt található](https://www.facebook.com/events/835380839188466)
 
 <p align="center">
-  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251116SRezonancia.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
 
