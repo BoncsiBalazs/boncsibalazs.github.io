@@ -37,7 +37,7 @@ Kezdjük rögtön a rákövetkező héttel, ahol a kulcspillanatokat egy termék
   <img src="/img/20251116Reading4.jpg" alt="SET1" style="max-width:50%;">
 </p>
 
-Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezdtünk, majd **a hétfő délutánt egy HírTV interjúval folytattuk**, ahol a Radar című műsorban oszthattuk meg gondolatainkat az élelmiszerhulladék és élelmiszerpazarlás témakörében az Élelmiszertudományi és Technológiai Intézet Intézetigazgatójával, Prof. Dr. Friedrich Lászlóval. 
+Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezdtünk, majd **a hétfő délutánt egy HírTV interjúval folytattuk**, ahol a Radar című műsorban oszthattuk meg gondolatainkat az élelmiszerhulladék és élelmiszerpazarlás témakörében az Élelmiszertudományi és Technológiai Intézet Intézetigazgatójával, [Prof. Dr. Friedrich Lászlóval](https://www.youtube.com/watch?v=FfsPrfBAkqs). 
 
 <p align="center">
   <img src="/img/20251116ATV.jpg" alt="SET1" style="max-width:50%;">
