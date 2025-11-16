@@ -183,8 +183,8 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 50px;
-  margin-top: -25px;
+  width: 75px;
+  margin-top: -35px;
 }
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
@@ -207,8 +207,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
-    margin-top: -50px;
+    width: 130px;
+    margin-top: -60px;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
