@@ -7,99 +7,75 @@ categories: blog
 thumbnail: /img/avatar-icon.png
 ---
 
-Nos, ebben a hónapban sem sikerült a heti szintű blogbejegyzések kreálása.. ellenben a  [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
-**Ha tetszenek a tartalmak, kérlek hagyj az oldalakon egy-egy kedvelést, az hatalmas elismerés és jó visszajelzés lenne számomra az aktivitások fogadtatását illetően.**
+..mert bizony akkor is tudsz töltődni, ha másnak adsz hitet, esélyt és lehetőséget. De hogy pontosan miről van szó? Ebből a bejegyzésből kideül
 
+ Ne felejtsd: A [**Facebookon**](https://www.facebook.com/profile.php?id=61575576670042) **és** [**Instagramon**](https://www.instagram.com/boncsibalazs_tudomanynagykovet/) majdnem minden nap olvashatsz valamilyen saját (vagy megosztott) tartalmat tőlem.
+**Ha tetszenek a tartalmak, kérlek hagyj az oldalakon egy-egy kedvelést, az hatalmas elismerés és jó visszajelzés lenne számomra az aktivitások fogadtatását illetően.**
 
 Nade elég is a reklámból, nézzük, _mi történt az elmúlt bejegyzés óta._
 
-Október 3-án néhány tudományos nagykövet társammal  ([Halasi Áronnal](https://www.facebook.com/profile.php?id=61575395624488) és [Nagy Felíciánnal](https://www.facebook.com/space.felician) ) meglátogattuk a _Capriovus Kft szigetcsépi tojásfeldolgozó üzemét_, ahol [Dr. Németh Csaba](https://igenyesferfi.hu/uzlet-siker/dr-nemeth-csaba-bebizonyitotta-valoban-tojasbol-lesz-a-csoda.php) mutatta be izgalmasan ismertette a tojás felhasználásának lehetőségeit, amelynek egy kiváló formája a **ToTu** [Tojás Tudatosan](https://capriovus.eu/totu-termekek/).
+De rég is volt október 18-a.. majdnem egy egész hónapja, mégis olyan, mintha csak tegnap lett volna.
+Kezdjük rögtön a rákövetkező héttel, ahol a kulcspillanatokat egy termékfejlesztési folyamat okozta a Science Expora való felkészülésen és kéziratok fejlesztésén felül. Ekkor dolgoztunk ugyanis egy iható és napraforgó pogácsából készült termék prototipusát (NapIta), amellyel a **[SipBySip nemzetközi versenyen**](https://apply.eitfood.eu/hu_HU/courses/course/200-food-solutions---sip-sip) szerepeltünk november 6-8 között Readingben (Egyesült Királyság). Ugyan pénzjutalmat nem szereztünk, mégis egy jó kihívás végén pozitív gondolatokat is tudok megőrizni a kompetícióval, hiszen nem csak az utazás és a közben megismert emberek társasága marad élmény, hanem az is, hogy egy nehéz alapanyagból (melyből egyébként több száz tonna keletkezik és alapvetően fűtőanyagként, vagy állati takarmányként használnak fel), Mi mégis egy ízletes, emelt fehérjetartalmú prototípust tudtunk előállítani.
+Ezúton is köszönöm az EcocZero Revolution csapatánakés a háttérben segédkező oktatóknak és munkatársaknak, akik lehetővé tették az egészet!
 
-**Egy zsenális délelőttöt tölthettünk el együtt, köszönjük Csaba!**
+<p align="center">
+  <img src="/img/20251116Reading1.png" alt="SET1" style="max-width:50%;">
+</p>
 
-A látogatásról egyébként a [Trade Magazin](https://trademagazin.hu/hu/tudomanyos-nagykovetek-latogattak-a-szigetcsepi-tojasfeldolgozo-uzembe/?fbclid=IwY2xjawNgEgFleHRuA2FlbQIxMQABHhN-ABX8NlNfAUjQl10Ces4v1cnXhsq1Bp3tMfZLyjeqbtlc1D8NGXifmuBz_aem_G01rq9y31BxP3v24YeDKwA) is hozott le egy cikket. :)
+<p align="center">
+  <img src="/img/2025116Reading2.png" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/2025116Reading3.png" alt="SET1" style="max-width:50%;">
+</p>
+
+<p align="center">
+  <img src="/img/2025116Reading4.png" alt="SET1" style="max-width:50%;">
+</p>
+
+Majd elérkezett az október 27-ei hét, amelyet rögtön egy kísérlettel kezdtünk, majd a hétfő délutánt egy HírTV interjúval folytattuk, ahol a Radar c. műsorban oszthattuk meg véleményünket az élelmiszerhulladék és élelmiszerpazarlás témakörében az Élelmiszertudományi és Technológiai Intézet Intézetigazgatójával, Prof.Dr.Friedrich Lászlóval. 
 
 
 <p align="center">
-  <img src="/img/20251019ToTu1.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/2025116Reading4.png" alt="SET1" style="max-width:50%;">
 </p>
 
 
-<p align="center">
-  <img src="/img/20251019ToTu2.jpg" alt="SET1" style="max-width:50%;">
-</p>
 
-Szintén azon a héten egy fáradalmnas cikkírásos folyamatot zárhattunk le és leadtuk a kiszemelt folyóíratnak a publikálni kívánt kéziratot. _"Fingers crossed!"_
-
-
-Örömmel vettem a kezembe az **Ócsa Városi Magazinnal készített portrébeszélgetésünket** tartalmazó számát, amelynek esetében szintén hálával tartozom **Katona-Zsombori Évának és a Szerkesztőségnek**.
-
-_A 2025. októberi szám [ITT, a 19. oldalon](https://ocsa.hu/magazin/2025.-oktoberi-szam_112923.pdf) olvasható._
+Ezt követően jött el október 28-29 és 30, amely három napban nagyszínpadi előadást tarthattam az Élelmiszeripar Jövőjét érintő technológiákról, mindezt olyan "Balázsosan". Külön örömömre szolgált, hogy a rendelkezésre álló székek között alig volt szabad hely, valamint hogy kérdéseket is kaptam az előadás után, ahol megannyi fiatal csillogó és ígéretes tekintetét is láthattam.
+Sőt, ezeken felül szakmai kerekasztalban (élelmiszerpazarlás témakörben) vehetettem részt, valamint a további napokon konferálást és moderálást és kerekasztal-diszkussziót (Megéri-e fiatalként a tudomány?) is végezhettem.. ezeken felül az esemény fénypontja azon felül, hogy a Nagykövetekkel találkozhattam az az volt, amikor magyar űrkutatás két feltörekvő igéretével, Kapu Tiborral és Cserényi Gyulával is találkozhattam, sőt, rövid beszélgetéseket is folytathattunk!
 
 <p align="center">
   <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
 </p>
 
-<p align="center">
-  <img src="/img/20251019Cikk2.png" alt="SET1" style="max-width:50%;">
-</p>
 
-Az ezt követő héten leginkább egy érzékszervi minősítéssel kapcsolatos kísérletet végeztünk (ennek eredményéről a későbbiekben számolok be), illetve tantárgyi követelmények teljesítéséhez, valamint további kísérletekhez készítettem elő anyagokat.
-
-Ezeken belül pedig fogadtam a [**MATE2030 Hallgatói Mentorprogramban**](https://uni-mate.hu/hallgat%C3%B3i-mentorprogram) az első hallgatóimat, akikkel _rendkívül jó hangulatú, progresszív beszélgetéseket_ folytattunk.
-
-Ezt követően pedig újból egy intenzív hétnek lehettem részese, hiszen nemcsak több másik kísérletben végeztem szervezési és résztvevői feladatokat, hanem több konferencián is részt vettem, mint kiállító vagy "megfigyelő". 
-Ilyen volt például az október 15-ei [**NAK FoodTechShow**](https://www.nak.hu/sajto/sajtokozlemenyek/109414-sikerrel-zarult-a-foodtechshow) vagy például az október 17-ei **ÉTTI szakmai nap.**
-
-Továbbá szintén ezen a héten _jelent meg egy írásom_ a Tudomány Éve weboldalán, amelynek apropója az október 16-ai Élelmezési Világnap. **Ha van időd, olvasd el a cikket** [ITT](https://www.tudomanyeve.hu/post/ne-etesd-a-kukat-avagy-azok-volnank-mint-amit-nem-eszunk-meg).
+Ezúton is hálásan köszönöm mindenkinek, különösen a Nemzeti Innovációs Ügynökségnek, valamint a MATE Élelmiszertudományi és Technológiai Intézetének a támogatást és a bizalmat! Egy izgalmas pszichés felkészülést követően örök élményt és rengeteg tapasztalatot szereztem.
 
 <p align="center">
-  <img src="/img/20251019ÉlelmCikk.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
 </p>
+
+Ennek levezetéseként október 30-án a Manna FM-ben volt lehetőségem bemutatni a Tudományos Nagyköveteket és a programunk célját [Ferencz Gabival](https://www.facebook.com/gabi.ferencz). 
+
+A beszélgetést vágatlanul az [alábbi linken hallgathatod meg](https://soundcloud.com/mannafm/tudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fmannafm%252Ftudomanyos-nagykovet-csaladi-manna-ferencz-gabival-2025-10-01-3)
 
 <p align="center">
-  <img src="/img/20251019NAK.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
 </p>
 
-De az elmúlt hét egyik legnagyobb tevékenysége az október 28-30 között zajló háromnapos rendezvénysorozat előkészítése, amely nem más, mint a **Science Expo**. 
 
-Nagy örömömre szolgál, hogy mindhárom napon lesz színpadi aktivitásom (előadás, kerekasztalok), amelyek közül a számomra az egyik leginkább izgatottan várt esemény az **október 28-ai, ~10:25-kor kezdődő előadásom, amely közvetlenül a hivatalos megnyitója előtt lesz látható és hallható** [a megnyitón Hankó Balázs kultúráért és innovációért felelős miniszter is köszöntőt mond), de ezek **mellett beszélgetni fogunk az élelmiszerpazarlásról, illetve a Tudományos Karrierről is (hogy pontosan mikor? Görgess ezen cikk aljára! ;) .**
+Ezt követően sem állt meg az élet, hiszen több, még futó projekt következő fázisának ágyaztunk meg, melyek eredménye a következő időszakban várhatók.
 
-Az eseménnyel kapcsolatos _legfrissebb információk_ [ITT érhetőek el](https://www.facebook.com/events/1477338803539713), de közösségi média felületeimen folyamatosan adok tájékoztatást a fejleményekről.
-
-A programmal kapcsolatosan az **M2 Petőfi Csatorna Esti Kornél című műsorában adtunk interjút** [Sági Stella Tudományos Nagykövettel](https://www.facebook.com/ssagistella), amelyet [ITT hallgathatsz meg](https://mediaklikk.hu/video/2025/10/16/science-expo-2025). 
-
-Nagyon köszönöm ezúton is a közös munkát Stellának, a műsor szerkesztőségének és a NIÜ-nek, akik lehetővé tették ezt a lehetőséget számunkra.
-
+Addig is készülj, mert sok helyen találkozhatunk (és nem csupán TDK-n, vagy konferencián)! ;) 
+Hamarosan Szegeden is ütközhetünk, hiszen 12.08-án Szegeden 14.00 órától a Rezonancia Középiskolásoknak eseményen és az azt követő órákban is azon a környéken leszek és a kerekasztal beszélgetésen is mesélhetek arról, hogy mit jelent ma a tudomány szolgálatában tevékenykedni és milyen emberek vannak a laborfalak és a köpenyek mögött. Az esemény [Facebook elérhetőség itt található](https://www.facebook.com/events/835380839188466)
 
 <p align="center">
-  <img src="/img/20251019M21.png" alt="SET1" style="max-width:50%;">
+  <img src="/img/20251019Cikk1.png" alt="SET1" style="max-width:50%;">
 </p>
 
-<p align="center">
-  <img src="/img/20251019M22.png" alt="SET1" style="max-width:50%;">
-</p>
 
-Ennyi történt az elmúlt időszakban, hamarosan jelentkezem egy új bejegyzésben. 
-**Addig is vigyázzatok magatokra és minél többen gyertek a Science Expo-ra!**
-
-**Hozzatok, hívjatok minél több embert, hiszen nem csak a tudomány kerül ki a laboratóriumi falakon kívül, hanem számos más izgalmas programban is részt vehettek ingyenesen, regisztráció nélkül!**
-
-<p align="center">
-  <img src="/img/20251019ScienceExpo0.png" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/20251019Science Expo_1.png" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/20251019Science Expo_2.png" alt="SET1" style="max-width:50%;">
-</p>
-
-<p align="center">
-  <img src="/img/20251019Science Expo_3.png" alt="SET1" style="max-width:50%;">
-</p>
 
 **Kérdésed van? Érdekel esetleg egy téma, amiről szívesen olvasnál - hallanál, vagy csak a véleményemre lennél kíváncsi? [Ezen az oldalon felteheted őket!](https://www.facebook.com/profile.php?id=61575576670042)**
 
